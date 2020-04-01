@@ -4046,7 +4046,7 @@ họ	P	B-NP	O
 
 Có	V	B-VP	O
 niên_đại_từ	N	B-NP	O
-thế_kỷ	N	B-NP	time
+thế_kỷ	N	B-NP	TIME
 11	M	B-NP	TIME
 ,	F	O	O
 là	C	O	O

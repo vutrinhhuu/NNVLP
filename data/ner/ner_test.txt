@@ -64,8 +64,8 @@ trong	E	B-PP	O
 đám	N	B-NP	O
 đông	A	B-AP	O
 trên	E	B-PP	O
-đồng_bằng	N	B-NP	O
-Úc	Np	B-NP	O
+đồng_bằng	N	B-NP	LOCATION
+Úc	Np	B-NP	LOCATION
 .	F	O	O
 
 Được	R	B-VP	O
@@ -292,7 +292,7 @@ Airtrainer	Np	B-NP	O
 được	V	O	O
 sản_xuất	V	B-NP	O
 tại	E	B-PP	O
-New_Zealand	Np	B-NP	O
+New_Zealand	Np	B-NP	LOCATION
 .	F	O	O
 
 Cô	N	B-NP	O
@@ -359,7 +359,7 @@ dân_chủ	N	B-NP	O
 của	E	B-PP	O
 chúng_ta	P	B-NP	O
 vào	E	B-PP	O
-ngày_mai	N	B-NP	O
+ngày_mai	N	B-NP	TIME
 .	F	O	O
 
 Thời_gian	N	B-NP	O
@@ -819,8 +819,8 @@ người	N	B-NP	O
 ,	F	O	O
 trận	N	B-NP	O
 lụt	V	B-NP	O
-sông	N	B-NP	O
-Hoàng_Hà	Np	B-NP	O
+sông	N	B-NP	LOCATION
+Hoàng_Hà	Np	B-NP	LOCATION
 năm	N	B-NP	TIME
 1887	M	B-NP	TIME
 đã	R	O	O
@@ -1382,8 +1382,8 @@ tăng	V	B-VP	O
 12,3	M	B-NP	O
 %	Nu	B-NP	O
 trong	E	B-PP	O
-năm	N	B-NP	TIME
-đó	P	B-NP	TIME
+năm	N	B-NP	O
+đó	P	B-NP	O
 .	F	O	O
 
 Titlis_Rotair	Np	B-NP	O
@@ -1484,11 +1484,11 @@ Nam_Cực	Np	B-NP	LOCATION
 hay	C	O	O
 cá_voi	V	B-NP	O
 minke	N	B-NP	O
-phía	N	B-NP	LOCATION
-nam	N	B-NP	LOCATION
+phía	N	B-NP	O
+nam	N	B-NP	O
 (	F	O	O
-Balaenoptera	Np	B-NP	LOCATION
-bonaerensis	V	B-NP	LOCATION
+Balaenoptera	Np	B-NP	O
+bonaerensis	V	B-NP	O
 )	F	O	O
 ,	F	O	O
 không	R	O	O
@@ -1942,10 +1942,10 @@ Nancy	Np	B-NP	O
 nổi_tiếng	A	B-NP	O
 trong	E	B-PP	O
 học_kỳ	N	B-NP	O
-mùa	Nc	B-NP	LOCATION
-xuân	N	B-NP	LOCATION
-năm	N	B-NP	LOCATION
-1946	M	B-NP	LOCATION
+mùa	Nc	B-NP	TIME
+xuân	N	B-NP	TIME
+năm	N	B-NP	TIME
+1946	M	B-NP	TIME
 .	F	O	O
 
 Không	R	O	O
@@ -2650,7 +2650,7 @@ là	V	O	O
 sân_bay	N	B-NP	O
 quốc_tế	N	B-NP	O
 của	E	B-PP	O
-Thượng_Hải	Np	B-NP	O
+Thượng_Hải	Np	B-NP	LOCATION
 .	F	O	O
 
 thêm	V	B-VP	O
@@ -3645,7 +3645,7 @@ tồn_tại	V	B-NP	O
 
 Kể	V	B-VP	O
 từ	E	B-PP	O
-ngày	N	B-NP	O
+ngày	N	B-NP	TIME
 1	M	B-NP	TIME
 tháng	N	B-NP	TIME
 7	M	B-NP	TIME
@@ -4074,7 +4074,7 @@ câu	N	B-NP	O
 lạc_bộ	V	B-NP	O
 vào	E	B-PP	O
 tối	N	B-NP	TIME
-nay	P	B-NP	O
+nay	P	B-NP	TIME
 
 Liên_minh	N	B-NP	O
 Viễn_thông	N	B-NP	O
@@ -4358,7 +4358,7 @@ biết	V	B-VP	O
 rằng	C	O	O
 vị_trí	N	B-NP	O
 của	E	B-PP	O
-Ceuta	Np	B-NP	O
+Ceuta	Np	B-NP	LOCATION
 đã	R	O	O
 biến	V	B-VP	O
 nó	P	B-NP	O
@@ -4585,7 +4585,7 @@ Sao_Hỏa	Np	B-NP	O
 
 đi	V	B-VP	O
 công_tác	V	B-NP	O
-Hưng_Yên	Np	B-NP	O
+Hưng_Yên	Np	B-NP	LOCATION
 ngày	N	B-NP	TIME
 28	M	B-NP	TIME
 tháng	N	B-NP	TIME
@@ -4615,8 +4615,8 @@ của	E	B-PP	O
 nam_giới	N	B-NP	O
 .	F	O	O
 
-Sông	N	B-NP	O
-Blackwater	Np	B-NP	O
+Sông	N	B-NP	LOCATION
+Blackwater	Np	B-NP	LOCATION
 chủ_yếu	A	B-NP	O
 nuôi	V	B-VP	O
 sống	V	B-VP	O
@@ -4980,7 +4980,7 @@ có	V	B-VP	O
 bằng_cấp	N	B-NP	O
 cao	A	B-AP	O
 cho	E	B-PP	O
-Papua_New_Guinea	Np	B-NP	O
+Papua_New_Guinea	Np	B-NP	LOCATION
 .	F	O	O
 
 Mars	Np	B-NP	O
@@ -5439,9 +5439,9 @@ vào	E	B-PP	O
 tối	N	B-NP	TIME
 mai	M	B-NP	TIME
 
-Tòa_án	N	B-NP	O
-quận	N	B-NP	O
-Fountain	Np	B-NP	O
+Tòa_án	N	B-NP	LOCATION
+quận	N	B-NP	LOCATION
+Fountain	Np	B-NP	LOCATION
 đầu_tiên	A	B-NP	O
 là	V	O	O
 một	M	B-NP	O
@@ -5567,8 +5567,8 @@ thấy	V	B-VP	O
 tất_cả	P	B-NP	O
 .	F	O	O
 
-Cảng	N	B-NP	O
-Savannah	Np	B-NP	O
+Cảng	N	B-NP	LOCATION
+Savannah	Np	B-NP	LOCATION
 là	V	O	O
 một	M	B-NP	O
 cảng	N	B-NP	O
@@ -5710,7 +5710,7 @@ Vào	E	B-VP	O
 thời_kỳ	N	B-NP	O
 đỉnh_cao	N	B-NP	O
 ,	F	O	O
-Bagan	Np	B-NP	O
+Bagan	Np	B-NP	LOCATION
 chứa	V	B-VP	O
 hơn	A	B-AP	O
 10.000	M	B-NP	O
@@ -5862,8 +5862,8 @@ một	M	B-NP	O
 phần	N	B-NP	O
 chính	A	O	O
 của	E	B-PP	O
-miền	N	B-NP	O
-bắc	N	B-NP	O
+miền	N	B-NP	LOCATION
+bắc	N	B-NP	LOCATION
 Canada	Np	B-NP	LOCATION
 .	F	O	O
 
