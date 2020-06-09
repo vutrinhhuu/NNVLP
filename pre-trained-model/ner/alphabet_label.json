@@ -1,1 +1,1 @@
-{"instance2index": {"TIME": 3, "LOCATION": 2, "O": 1}, "instances": ["O", "LOCATION", "TIME"]}
+{"instance2index": {"TIME": 3, "O": 1, "LOCATION": 2}, "instances": ["O", "LOCATION", "TIME"]}
