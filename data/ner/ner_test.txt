@@ -10,11 +10,11 @@ cơ_thể	N	B-NP	O
 tham_gia	N	B-NP	O
 hội_thảo	V	B-NP	O
 lúc	N	B-NP	O
-8	M	B-NP	TIME
-giờ	Nu	B-NP	TIME
-sáng	N	B-NP	TIME
-thứ	N	B-NP	TIME
-3	M	B-NP	TIME
+8	M	B-NP	B-TIME
+giờ	Nu	B-NP	B-TIME
+sáng	N	B-NP	B-TIME
+thứ	N	B-NP	B-TIME
+3	M	B-NP	B-TIME
 
 Đó	P	B-NP	O
 là	V	O	O
@@ -32,7 +32,7 @@ viện	N	B-NP	O
 nghiên_cứu	V	B-NP	O
 điển_hình	N	B-NP	O
 của	E	B-PP	O
-Đức	Np	B-NP	LOCATION
+Đức	Np	B-NP	B-LOC
 là	V	O	O
 FOM	Ny	B-NP	O
 ild	N	B-NP	O
@@ -64,8 +64,8 @@ trong	E	B-PP	O
 đám	N	B-NP	O
 đông	A	B-AP	O
 trên	E	B-PP	O
-đồng_bằng	N	B-NP	LOCATION
-Úc	Np	B-NP	LOCATION
+đồng_bằng	N	B-NP	B-LOC
+Úc	Np	B-NP	B-LOC
 .	F	O	O
 
 Được	R	B-VP	O
@@ -86,7 +86,7 @@ chính	A	O	O
 của	E	B-PP	O
 ẩm_thực	N	B-NP	O
 truyền_thống	N	B-NP	O
-Ý	Np	B-NP	LOCATION
+Ý	Np	B-NP	B-LOC
 .	F	O	O
 
 Ngược_lại	X	B-NP	O
@@ -144,8 +144,8 @@ cũ	A	B-AP	O
 .	F	O	O
 
 Từ	E	B-PP	O
-năm	N	B-NP	TIME
-2006	M	B-NP	TIME
+năm	N	B-NP	B-TIME
+2006	M	B-NP	B-TIME
 ,	F	O	O
 Paul_Copan	Np	B-NP	O
 là	V	O	O
@@ -189,15 +189,15 @@ có	V	B-VP	O
 cuộc	N	B-NP	O
 hẹn	V	B-VP	O
 lúc	N	B-NP	O
-13	M	B-NP	TIME
-:	CH	O	TIME
-30	M	B-NP	TIME
-ngày	N	B-NP	TIME
-16	M	B-NP	TIME
-tháng	N	B-NP	TIME
-1	M	B-NP	TIME
-năm	N	B-NP	TIME
-2019	M	B-NP	TIME
+13	M	B-NP	B-TIME
+:	CH	O	B-TIME
+30	M	B-NP	B-TIME
+ngày	N	B-NP	B-TIME
+16	M	B-NP	B-TIME
+tháng	N	B-NP	B-TIME
+1	M	B-NP	B-TIME
+năm	N	B-NP	B-TIME
+2019	M	B-NP	B-TIME
 
 Young	Np	B-NP	O
 và	C	O	O
@@ -214,16 +214,16 @@ Shorter	Np	B-NP	O
 
 vào	E	B-PP	O
 lúc	N	B-NP	O
-10	M	B-NP	TIME
-:	CH	O	TIME
-30	M	B-NP	TIME
-ngày	N	B-NP	TIME
-25	M	B-NP	TIME
-tháng	N	B-NP	TIME
-12	M	B-NP	TIME
-2019	N	B-NP	TIME
+10	M	B-NP	B-TIME
+:	CH	O	B-TIME
+30	M	B-NP	B-TIME
+ngày	N	B-NP	B-TIME
+25	M	B-NP	B-TIME
+tháng	N	B-NP	B-TIME
+12	M	B-NP	B-TIME
+2019	N	B-NP	B-TIME
 tại	E	B-PP	O
-nhà_hàng	M	B-NP	LOCATION
+nhà_hàng	M	B-NP	B-LOC
 
 Thêm	V	B-VP	O
 sự_kiện	N	B-NP	O
@@ -232,12 +232,12 @@ dã_ngoại	V	B-NP	O
 cùng	A	B-AP	O
 bạn_bè	V	B-NP	O
 vào	E	B-PP	O
-cuối	N	B-NP	TIME
-tuần	N	B-NP	TIME
+cuối	N	B-NP	B-TIME
+tuần	N	B-NP	B-TIME
 
-83	M	B-NP	LOCATION
-West_Railroad	Np	B-NP	LOCATION
-Street_Ada	Np	B-NP	LOCATION
+83	M	B-NP	B-LOC
+West_Railroad	Np	B-NP	B-LOC
+Street_Ada	Np	B-NP	B-LOC
 có	V	B-VP	O
 một	M	B-NP	O
 ngôi	Nc	B-NP	O
@@ -254,13 +254,13 @@ Kim_jong	Np	B-NP	O
 -	CH	O	O
 un	V	B-NP	O
 vào	E	B-PP	O
-ngày	N	B-NP	TIME
-mùng	M	B-NP	TIME
-6	M	B-NP	TIME
-tháng	N	B-NP	TIME
-5	M	B-NP	TIME
-năm	N	B-NP	TIME
-2020	M	B-NP	TIME
+ngày	N	B-NP	B-TIME
+mùng	M	B-NP	B-TIME
+6	M	B-NP	B-TIME
+tháng	N	B-NP	B-TIME
+5	M	B-NP	B-TIME
+năm	N	B-NP	B-TIME
+2020	M	B-NP	B-TIME
 
 Nghiên_cứu	V	B-NP	O
 của	E	B-PP	O
@@ -292,7 +292,7 @@ Airtrainer	Np	B-NP	O
 được	V	O	O
 sản_xuất	V	B-NP	O
 tại	E	B-PP	O
-New_Zealand	Np	B-NP	LOCATION
+New_Zealand	Np	B-NP	B-LOC
 .	F	O	O
 
 Cô	N	B-NP	O
@@ -359,20 +359,20 @@ dân_chủ	N	B-NP	O
 của	E	B-PP	O
 chúng_ta	P	B-NP	O
 vào	E	B-PP	O
-ngày_mai	N	B-NP	TIME
+ngày_mai	N	B-NP	B-TIME
 .	F	O	O
 
 Thời_gian	N	B-NP	O
 :	F	O	O
-Từ	E	B-PP	TIME
-17h	M	B-NP	TIME
-đến	E	B-PP	TIME
-19h	M	B-NP	TIME
+Từ	E	B-PP	B-TIME
+17h	M	B-NP	B-TIME
+đến	E	B-PP	B-TIME
+19h	M	B-NP	B-TIME
 ,	F	O	O
-ngày	N	B-NP	TIME
-thứ	Nc	B-NP	TIME
-năm	N	B-NP	TIME
-23/12/2010	M	B-NP	TIME
+ngày	N	B-NP	B-TIME
+thứ	Nc	B-NP	B-TIME
+năm	N	B-NP	B-TIME
+23/12/2010	M	B-NP	B-TIME
 .	F	O	O
 
 Tổ_chức	V	B-NP	O
@@ -389,7 +389,7 @@ các	L	B-NP	O
 sân_bay	N	B-NP	O
 thương_mại	N	B-NP	O
 ở	E	B-PP	O
-Nigeria	Np	B-NP	LOCATION
+Nigeria	Np	B-NP	B-LOC
 là	V	O	O
 Cơ_quan	N	B-NP	O
 quản_lý	V	B-NP	O
@@ -398,19 +398,19 @@ liên_bang	V	B-NP	O
 Nigeria	Np	B-NP	O
 .	F	O	O
 
-Sân_bay	N	B-NP	LOCATION
-quốc_tế	N	B-NP	LOCATION
-Antonio_Carlos	Np	B-NP	LOCATION
-Jobim	Np	B-NP	LOCATION
+Sân_bay	N	B-NP	B-LOC
+quốc_tế	N	B-NP	B-LOC
+Antonio_Carlos	Np	B-NP	B-LOC
+Jobim	Np	B-NP	B-LOC
 nằm	V	B-VP	O
 trên	E	B-PP	O
-đảo	N	B-NP	LOCATION
-Governador	Np	B-NP	LOCATION
+đảo	N	B-NP	B-LOC
+Governador	Np	B-NP	B-LOC
 ,	F	O	O
 cách	N	B-NP	O
-Rio	Np	B-NP	LOCATION
-de	V	B-NP	LOCATION
-Janeiro	Np	B-NP	LOCATION
+Rio	Np	B-NP	B-LOC
+de	V	B-NP	B-LOC
+Janeiro	Np	B-NP	B-LOC
 20km	M	B-NP	O
 về	E	B-PP	O
 phía	N	B-NP	O
@@ -421,7 +421,7 @@ Tôi	P	B-NP	O
 không	R	O	O
 biết	V	B-VP	O
 rằng	C	O	O
-California	Np	B-NP	LOCATION
+California	Np	B-NP	B-LOC
 chứa	V	B-VP	O
 cả	T	B-NP	O
 điểm_cao	N	B-NP	O
@@ -431,7 +431,7 @@ và	C	O	O
 thấp	A	B-AP	O
 nhất	A	B-NP	O
 ở	E	B-PP	O
-Hoa_Kỳ	Np	B-NP	LOCATION
+Hoa_Kỳ	Np	B-NP	B-LOC
 tiếp_giáp	V	B-NP	O
 .	F	O	O
 
@@ -440,15 +440,15 @@ chào	V	B-VP	O
 xuân	N	B-NP	O
 2020	V	B-NP	O
 vào	E	B-PP	O
-ngày	N	B-NP	TIME
-mùng	N	B-NP	TIME
-1	M	B-NP	TIME
-tháng	N	B-NP	TIME
-2	M	B-NP	TIME
-năm	N	B-NP	TIME
-2020	M	B-NP	TIME
+ngày	N	B-NP	B-TIME
+mùng	N	B-NP	B-TIME
+1	M	B-NP	B-TIME
+tháng	N	B-NP	B-TIME
+2	M	B-NP	B-TIME
+năm	N	B-NP	B-TIME
+2020	M	B-NP	B-TIME
 tại	E	B-PP	O
-cung_văn_hóa	M	B-NP	LOCATION
+cung_văn_hóa	M	B-NP	B-LOC
 
 thêm	V	B-VP	O
 nhắc_nhở	N	B-NP	O
@@ -456,10 +456,10 @@ nhắc_nhở	N	B-NP	O
 thăm	V	B-VP	O
 thầy_giáo	N	B-NP	O
 lúc	N	B-NP	O
-13	M	B-NP	TIME
-:	CH	O	TIME
-30	M	B-NP	TIME
-ngày_mai	M	B-NP	TIME
+13	M	B-NP	B-TIME
+:	CH	O	B-TIME
+30	M	B-NP	B-TIME
+ngày_mai	M	B-NP	B-TIME
 
 thêm	V	B-VP	O
 nhắc_nhở	N	B-NP	O
@@ -468,26 +468,26 @@ shopping	V	B-NP	O
 cùng	C	B-AP	O
 bạn	N	B-NP	O
 vào	E	B-PP	O
-tối	N	B-NP	TIME
-nay	P	B-NP	TIME
+tối	N	B-NP	B-TIME
+nay	P	B-NP	B-TIME
 
 có	V	B-VP	O
 cuộc	N	B-NP	O
 họp	V	B-VP	O
 lúc	N	B-NP	O
-9	M	B-NP	TIME
-:	CH	O	TIME
-30	M	B-NP	TIME
-sáng_mai	M	B-NP	TIME
+9	M	B-NP	B-TIME
+:	CH	O	B-TIME
+30	M	B-NP	B-TIME
+sáng_mai	M	B-NP	B-TIME
 
 Nhà_Chu	Np	B-NP	O
 chỉ	R	O	O
 tồn_tại	V	B-NP	O
 đến	E	B-PP	O
-năm	N	B-NP	TIME
-771	M	B-NP	TIME
-trước	E	B-PP	TIME
-Công_nguyên	N	B-NP	TIME
+năm	N	B-NP	B-TIME
+771	M	B-NP	B-TIME
+trước	E	B-PP	B-TIME
+Công_nguyên	N	B-NP	B-TIME
 .	F	O	O
 
 Tờ	Nc	B-NP	O
@@ -499,8 +499,8 @@ lớn	A	B-AP	O
 nhất	R	B-NP	O
 có	V	B-VP	O
 trụ_sở_tại	N	B-NP	O
-bang	N	B-NP	LOCATION
-Maryland	Np	B-NP	LOCATION
+bang	N	B-NP	B-LOC
+Maryland	Np	B-NP	B-LOC
 là	V	O	O
 The_Baltimore_Sun	Np	B-NP	O
 .	F	O	O
@@ -516,21 +516,21 @@ và	C	O	O
 hình_phạt	N	B-NP	O
 tử_hình	N	B-NP	O
 hiệu_quả	N	B-NP	O
-năm	N	B-NP	TIME
-1996	M	B-NP	TIME
+năm	N	B-NP	B-TIME
+1996	M	B-NP	B-TIME
 .	F	O	O
 
 có	V	B-VP	O
 cuộc	N	B-NP	O
 hẹn	V	B-VP	O
 lúc	N	B-NP	O
-9	M	B-NP	TIME
-giờ	Nu	B-NP	TIME
-sáng	N	B-NP	TIME
-thứ	N	B-NP	TIME
-hai	M	B-NP	TIME
-tuần	N	B-NP	TIME
-sau	N	B-NP	TIME
+9	M	B-NP	B-TIME
+giờ	Nu	B-NP	B-TIME
+sáng	N	B-NP	B-TIME
+thứ	N	B-NP	B-TIME
+hai	M	B-NP	B-TIME
+tuần	N	B-NP	B-TIME
+sau	N	B-NP	B-TIME
 
 Số	N	B-NP	O
 được	R	O	O
@@ -562,8 +562,8 @@ tiếng	N	B-NP	O
 ồn_phát	V	B-NP	O
 ra	V	B-VP	O
 từ	E	B-PP	O
-tầng	N	B-NP	LOCATION
-ba	M	B-NP	LOCATION
+tầng	N	B-NP	B-LOC
+ba	M	B-NP	B-LOC
 ,	F	O	O
 hoặc	C	O	O
 cao	A	B-AP	O
@@ -574,13 +574,13 @@ hơn	R	B-AP	O
 kiểm_tra	V	B-NP	O
 sức_khỏe	N	B-NP	O
 định_kỳ	V	B-NP	O
-ngày	N	B-NP	TIME
-mùng	M	B-NP	TIME
-10	M	B-NP	TIME
-tháng	N	B-NP	TIME
-10	M	B-NP	TIME
-năm	N	B-NP	TIME
-2019	M	B-NP	TIME
+ngày	N	B-NP	B-TIME
+mùng	M	B-NP	B-TIME
+10	M	B-NP	B-TIME
+tháng	N	B-NP	B-TIME
+10	M	B-NP	B-TIME
+năm	N	B-NP	B-TIME
+2019	M	B-NP	B-TIME
 
 Cô	N	B-NP	O
 ấy	P	B-NP	O
@@ -589,9 +589,9 @@ có_thể	R	B-NP	O
 cùng	A	B-AP	O
 tôi	P	B-NP	O
 trong	E	B-PP	O
-phòng	N	B-NP	LOCATION
-#	F	B-NP	LOCATION
-28	M	B-NP	LOCATION
+phòng	N	B-NP	B-LOC
+#	F	B-NP	B-LOC
+28	M	B-NP	B-LOC
 .	F	O	O
 
 Anne_Frank	Np	B-NP	O
@@ -607,8 +607,8 @@ gái	N	B-NP	O
 trẻ	A	B-AP	O
 .	F	O	O
 
-Đại_học	N	B-NP	LOCATION
-Aberdeen	Np	B-NP	LOCATION
+Đại_học	N	B-NP	B-LOC
+Aberdeen	Np	B-NP	B-LOC
 là	V	O	O
 một	M	B-NP	O
 trong	E	B-PP	O
@@ -617,7 +617,7 @@ trường	N	B-NP	O
 đại_học	N	B-NP	O
 hàng_đầu	N	B-NP	O
 ở	E	B-PP	O
-Anh	Np	B-NP	LOCATION
+Anh	Np	B-NP	B-LOC
 về	V	B-PP	O
 việc_làm	N	B-NP	O
 sau	E	B-NP	O
@@ -643,10 +643,10 @@ Bỉ	Np	B-NP	O
 tìm	V	B-VP	O
 thấy	V	B-VP	O
 ở	E	B-PP	O
-Braga	Np	B-NP	LOCATION
+Braga	Np	B-NP	B-LOC
 ,	F	O	O
-Bồ_Đào	Np	B-NP	LOCATION
-Nha	Np	B-NP	LOCATION
+Bồ_Đào	Np	B-NP	B-LOC
+Nha	Np	B-NP	B-LOC
 .	F	O	O
 
 Ounce	Np	B-NP	O
@@ -724,15 +724,15 @@ du_lịch	V	B-NP	O
 cùng	A	B-AP	O
 gia_đình	V	B-NP	O
 vào	E	B-PP	O
-mùa	N	B-NP	TIME
-hè	N	B-NP	TIME
+mùa	N	B-NP	B-TIME
+hè	N	B-NP	B-TIME
 
-Quận_Livingston	Np	B-NP	LOCATION
+Quận_Livingston	Np	B-NP	B-LOC
 là	V	O	O
 một	M	B-NP	O
 phần	N	B-NP	O
 của	E	B-PP	O
-Missouri	Np	B-NP	LOCATION
+Missouri	Np	B-NP	B-LOC
 .	F	O	O
 
 Các	L	B-NP	O
@@ -751,12 +751,12 @@ Ngày	N	B-NP	O
 xảy	V	B-VP	O
 ra	V	B-VP	O
 vào	E	B-PP	O
-ngày	N	B-NP	TIME
-6	M	B-NP	TIME
-tháng	N	B-NP	TIME
-6	M	B-NP	TIME
-năm	N	B-NP	TIME
-1944	M	B-NP	TIME
+ngày	N	B-NP	B-TIME
+6	M	B-NP	B-TIME
+tháng	N	B-NP	B-TIME
+6	M	B-NP	B-TIME
+năm	N	B-NP	B-TIME
+1944	M	B-NP	B-TIME
 .	F	O	O
 
 Petabyte	N	B-NP	O
@@ -806,10 +806,10 @@ nitrit	N	B-NP	O
 
 Bắt_đầu	V	B-NP	O
 vào	E	B-PP	O
-tháng	N	B-NP	TIME
-9	M	B-NP	TIME
-năm	N	B-NP	TIME
-1887	M	B-NP	TIME
+tháng	N	B-NP	B-TIME
+9	M	B-NP	B-TIME
+năm	N	B-NP	B-TIME
+1887	M	B-NP	B-TIME
 và	C	O	O
 giết	V	B-VP	O
 chết	V	B-VP	O
@@ -819,10 +819,10 @@ người	N	B-NP	O
 ,	F	O	O
 trận	N	B-NP	O
 lụt	V	B-NP	O
-sông	N	B-NP	LOCATION
-Hoàng_Hà	Np	B-NP	LOCATION
-năm	N	B-NP	TIME
-1887	M	B-NP	TIME
+sông	N	B-NP	B-LOC
+Hoàng_Hà	Np	B-NP	B-LOC
+năm	N	B-NP	B-TIME
+1887	M	B-NP	B-TIME
 đã	R	O	O
 xảy	V	B-VP	O
 ra	V	B-VP	O
@@ -871,8 +871,8 @@ tốt	A	B-AP	O
 
 Đạo_luật	N	B-NP	O
 Thực_thi	V	B-NP	O
-năm	N	B-NP	TIME
-1871	M	B-NP	TIME
+năm	N	B-NP	B-TIME
+1871	M	B-NP	B-TIME
 đã	R	O	O
 được	V	O	O
 Grant	Np	B-NP	O
@@ -974,9 +974,9 @@ phát_triển	V	B-NP	O
 riêng	A	B-AP	O
 .	F	O	O
 
-Sân_bay	N	B-NP	LOCATION
-quốc_tế	N	B-NP	LOCATION
-Los_Angeles	Np	B-NP	LOCATION
+Sân_bay	N	B-NP	B-LOC
+quốc_tế	N	B-NP	B-LOC
+Los_Angeles	Np	B-NP	B-LOC
 là	V	O	O
 một	M	B-NP	O
 trong	E	B-PP	O
@@ -985,8 +985,8 @@ sân_bay	N	B-NP	O
 quốc_tế	N	B-NP	O
 lớn	A	B-AP	O
 nhất	A	B-NP	O
-nước	N	B-NP	LOCATION
-Mỹ	Np	B-NP	LOCATION
+nước	N	B-NP	B-LOC
+Mỹ	Np	B-NP	B-LOC
 .	F	O	O
 
 Các	L	B-NP	O
@@ -1033,7 +1033,7 @@ chất	N	B-NP	O
 khử_trùng	V	B-NP	O
 .	F	O	O
 
-Đập_Warragamba	Np	B-NP	LOCATION
+Đập_Warragamba	Np	B-NP	B-LOC
 cung_cấp_nước	V	B-NP	O
 cho	E	B-PP	O
 hơn	A	B-AP	O
@@ -1042,7 +1042,7 @@ triệu	M	B-NP	O
 người	N	B-NP	O
 sống	V	B-VP	O
 ở	E	B-PP	O
-Sydney	Np	B-NP	LOCATION
+Sydney	Np	B-NP	B-LOC
 và	C	O	O
 vùng	N	B-NP	O
 núi	N	B-NP	O
@@ -1072,9 +1072,9 @@ là	V	O	O
 tuyến	N	B-NP	O
 đường_biển	N	B-NP	O
 nối	V	B-VP	O
-Đại_Tây_Dương	Np	B-NP	LOCATION
+Đại_Tây_Dương	Np	B-NP	B-LOC
 và	C	O	O
-Thái_Bình_Dương	Np	B-NP	LOCATION
+Thái_Bình_Dương	Np	B-NP	B-LOC
 .	F	O	O
 
 Cấu_trúc	N	B-NP	O
@@ -1091,15 +1091,15 @@ có	V	B-VP	O
 cuộc	N	B-NP	O
 họp	V	B-VP	O
 lúc	N	B-NP	O
-9	M	B-NP	TIME
-giờ	Nu	B-NP	TIME
-sáng	N	B-NP	TIME
-ngày	N	B-NP	TIME
-27	M	B-NP	TIME
-tháng	N	B-NP	TIME
-7	M	B-NP	TIME
-năm	N	B-NP	TIME
-2019	M	B-NP	TIME
+9	M	B-NP	B-TIME
+giờ	Nu	B-NP	B-TIME
+sáng	N	B-NP	B-TIME
+ngày	N	B-NP	B-TIME
+27	M	B-NP	B-TIME
+tháng	N	B-NP	B-TIME
+7	M	B-NP	B-TIME
+năm	N	B-NP	B-TIME
+2019	M	B-NP	B-TIME
 
 Tôi	P	B-NP	O
 không	R	O	O
@@ -1172,16 +1172,16 @@ cô	N	B-NP	O
 cần	V	B-VP	O
 .	F	O	O
 
-05	M	B-NP	TIME
-:	F	O	TIME
-00	M	B-NP	TIME
-AM	Nu	B-NP	TIME
+05	M	B-NP	B-TIME
+:	F	O	B-TIME
+00	M	B-NP	B-TIME
+AM	Nu	B-NP	B-TIME
 |	F	B-NP	O
-Ngày	N	B-NP	TIME
-17/11	M	B-NP	TIME
+Ngày	N	B-NP	B-TIME
+17/11	M	B-NP	B-TIME
 tại	E	B-PP	O
-Khu_đô_thị	N	B-NP	LOCATION
-Sala	Np	B-NP	LOCATION
+Khu_đô_thị	N	B-NP	B-LOC
+Sala	Np	B-NP	B-LOC
 
 Xin	V	B-VP	O
 hãy	R	O	O
@@ -1227,21 +1227,21 @@ Nhóm	N	B-NP	O
 Project	Np	B-NP	O
 2	M	B-NP	O
 :	F	O	O
-10	M	B-NP	TIME
-:	F	O	TIME
-30	M	B-NP	TIME
-sáng	N	B-NP	TIME
-thứ	N	B-NP	TIME
-6	M	B-NP	TIME
+10	M	B-NP	B-TIME
+:	F	O	B-TIME
+30	M	B-NP	B-TIME
+sáng	N	B-NP	B-TIME
+thứ	N	B-NP	B-TIME
+6	M	B-NP	B-TIME
 (	F	O	O
-1/3/2019	M	B-NP	TIME
+1/3/2019	M	B-NP	B-TIME
 )	F	O	O
 ,	F	O	O
 tại	E	B-PP	O
-phòng	N	B-NP	LOCATION
-803	M	B-NP	LOCATION
-thư_viện	N	B-NP	LOCATION
-TQB	Np	B-NP	LOCATION
+phòng	N	B-NP	B-LOC
+803	M	B-NP	B-LOC
+thư_viện	N	B-NP	B-LOC
+TQB	Np	B-NP	B-LOC
 
 Tôi	P	B-NP	O
 đã	R	O	O
@@ -1268,14 +1268,14 @@ duy_nhất	A	B-NP	O
 tôi	P	B-NP	O
 biết	V	B-VP	O
 về	E	B-PP	O
-Urugwiro	Np	B-NP	LOCATION
+Urugwiro	Np	B-NP	B-LOC
 là	V	O	O
 nó	P	B-NP	O
 được	V	O	O
 xây_dựng	V	B-NP	O
 vào	E	B-PP	O
-năm	N	B-NP	TIME
-1979	M	B-NP	TIME
+năm	N	B-NP	B-TIME
+1979	M	B-NP	B-TIME
 .	F	O	O
 
 SS	Ny	B-NP	O
@@ -1283,21 +1283,21 @@ Claus_Rickmer	Np	B-NP	O
 được	V	O	O
 ra_mắt	V	B-NP	O
 vào	E	B-PP	O
-ngày	N	B-NP	TIME
-23	M	B-NP	TIME
-tháng	N	B-NP	TIME
-11	M	B-NP	TIME
-năm	N	B-NP	TIME
-1923	M	B-NP	TIME
+ngày	N	B-NP	B-TIME
+23	M	B-NP	B-TIME
+tháng	N	B-NP	B-TIME
+11	M	B-NP	B-TIME
+năm	N	B-NP	B-TIME
+1923	M	B-NP	B-TIME
 và	C	O	O
 hoàn_thành	V	B-NP	O
 vào	E	B-PP	O
-ngày	N	B-NP	TIME
-22	M	B-NP	TIME
-tháng	N	B-NP	TIME
-2	M	B-NP	TIME
-năm	N	B-NP	TIME
-1924	M	B-NP	TIME
+ngày	N	B-NP	B-TIME
+22	M	B-NP	B-TIME
+tháng	N	B-NP	B-TIME
+2	M	B-NP	B-TIME
+năm	N	B-NP	B-TIME
+1924	M	B-NP	B-TIME
 .	F	O	O
 
 Dan_Marino	Np	B-NP	O
@@ -1330,22 +1330,22 @@ thăm	V	B-VP	O
 gian_hàng	N	B-NP	O
 của	E	B-PP	O
 chúng_tôi	P	B-NP	O
-từ	E	B-PP	TIME
-7	M	B-NP	TIME
+từ	E	B-PP	B-TIME
+7	M	B-NP	B-TIME
 ~	F	B-NP	O
-10/11/2018	M	B-NP	TIME
+10/11/2018	M	B-NP	B-TIME
 tại	E	B-PP	O
-Trung_tâm	N	B-NP	LOCATION
-Triển_lãm	N	B-NP	LOCATION
-Quốc_Tế	Np	B-NP	LOCATION
-Hà_Nội	Np	B-NP	LOCATION
+Trung_tâm	N	B-NP	B-LOC
+Triển_lãm	N	B-NP	B-LOC
+Quốc_Tế	Np	B-NP	B-LOC
+Hà_Nội	Np	B-NP	B-LOC
 –	V	O	O
-91	M	B-NP	LOCATION
-Trần_Hưng_Đạo	Np	B-NP	LOCATION
+91	M	B-NP	B-LOC
+Trần_Hưng_Đạo	Np	B-NP	B-LOC
 –	V	O	O
-Hoàn_Kiếm	Np	B-NP	LOCATION
+Hoàn_Kiếm	Np	B-NP	B-LOC
 –	V	O	O
-Hà_Nội	Np	B-NP	LOCATION
+Hà_Nội	Np	B-NP	B-LOC
 
 Cô	N	B-NP	O
 vẫn	R	O	O
@@ -1370,8 +1370,8 @@ từ	E	B-PP	O
 cuộc	N	B-NP	O
 khủng_hoảng	V	B-NP	O
 dầu_mỏ	N	B-NP	O
-năm	N	B-NP	TIME
-1973	M	B-NP	TIME
+năm	N	B-NP	B-TIME
+1973	M	B-NP	B-TIME
 đã	R	O	O
 góp_phần	V	B-NP	O
 làm	V	B-VP	O
@@ -1427,7 +1427,7 @@ có	V	B-VP	O
 không	R	O	O
 .	F	O	O
 
-Quận_Cheyenne	Np	B-NP	LOCATION
+Quận_Cheyenne	Np	B-NP	B-LOC
 được	V	O	O
 chia	V	B-VP	O
 thành	V	B-VP	O
@@ -1444,16 +1444,16 @@ loài	Nc	B-NP	O
 ngỗng	N	B-NP	O
 sinh_sản	V	B-NP	O
 ở	E	B-PP	O
-Greenland	Np	B-NP	LOCATION
+Greenland	Np	B-NP	B-LOC
 .	F	O	O
 
 Thời_gian	N	B-NP	O
 :	F	O	O
-09giờ00	M	B-NP	TIME
-Chủ_nhật	N	B-NP	TIME
+09giờ00	M	B-NP	B-TIME
+Chủ_nhật	N	B-NP	B-TIME
 ,	F	O	O
-ngày	N	B-NP	TIME
-24/12/2019	M	B-NP	TIME
+ngày	N	B-NP	B-TIME
+24/12/2019	M	B-NP	B-TIME
 
 Etruscan	Np	B-NP	O
 Tumuli	Np	B-NP	O
@@ -1471,15 +1471,15 @@ mô_tả	V	B-NP	O
 một_cách	N	B-NP	O
 khoa_học	N	B-NP	O
 vào	E	B-PP	O
-giữa	N	B-PP	TIME
-thế_kỷ	N	B-NP	TIME
-19	M	B-NP	TIME
+giữa	N	B-PP	B-TIME
+thế_kỷ	N	B-NP	B-TIME
+19	M	B-NP	B-TIME
 ,	F	O	O
 nhưng	C	O	O
 cá_voi	N	B-NP	O
 minke	N	B-NP	O
 ở	E	B-PP	O
-Nam_Cực	Np	B-NP	LOCATION
+Nam_Cực	Np	B-NP	B-LOC
 ,	F	O	O
 hay	C	O	O
 cá_voi	V	B-NP	O
@@ -1500,9 +1500,9 @@ loài	N	B-NP	O
 khác_biệt	A	B-NP	O
 cho	E	B-PP	O
 đến	E	B-PP	O
-những	L	B-NP	TIME
-năm	N	B-NP	TIME
-1990	M	B-NP	TIME
+những	L	B-NP	B-TIME
+năm	N	B-NP	B-TIME
+1990	M	B-NP	B-TIME
 .	F	O	O
 
 Tiền	N	B-NP	O
@@ -1514,14 +1514,14 @@ với	E	B-PP	O
 số_lượng	N	B-NP	O
 lớn	A	B-AP	O
 ở	E	B-PP	O
-Sri_Lanka	Np	B-NP	LOCATION
+Sri_Lanka	Np	B-NP	B-LOC
 .	F	O	O
 
 Một	M	B-NP	O
 vở	N	B-NP	O
 nhạc_kịch	A	B-NP	O
-năm	N	B-NP	TIME
-1964	M	B-NP	TIME
+năm	N	B-NP	B-TIME
+1964	M	B-NP	B-TIME
 với	E	B-PP	O
 lời	N	B-NP	O
 bài	Nc	B-NP	O
@@ -1547,12 +1547,12 @@ tham_gia	M	B-NP	O
 câu	N	B-NP	O
 lạc_bộ	V	B-NP	O
 vào	E	B-PP	O
-tối	N	B-NP	TIME
-nay	P	B-NP	TIME
+tối	N	B-NP	B-TIME
+nay	P	B-NP	B-TIME
 lúc	N	B-NP	O
-18	M	B-NP	TIME
-:	CH	O	TIME
-30	M	B-NP	TIME
+18	M	B-NP	B-TIME
+:	CH	O	B-TIME
+30	M	B-NP	B-TIME
 
 Tên	N	B-NP	O
 của	E	B-PP	O
@@ -1582,8 +1582,8 @@ Ubisoft	Np	B-NP	O
 Toronto	Np	B-NP	O
 nằm	V	B-VP	O
 trong	E	B-PP	O
-khu_phố	N	B-NP	LOCATION
-Junction	Np	B-NP	LOCATION
+khu_phố	N	B-NP	B-LOC
+Junction	Np	B-NP	B-LOC
 hiền_hòa	A	B-NP	O
 của	E	B-PP	O
 thành_phố	N	B-NP	O
@@ -1626,22 +1626,22 @@ cho	E	B-PP	O
 Damn_Yankees	Np	B-NP	O
 .	F	O	O
 
-Sân_bay	N	B-NP	LOCATION
-quốc_tế	N	B-NP	LOCATION
-Minneapolis	Np	B-NP	LOCATION
--	F	O	LOCATION
-Saint_Paul	Np	B-NP	LOCATION
+Sân_bay	N	B-NP	B-LOC
+quốc_tế	N	B-NP	B-LOC
+Minneapolis	Np	B-NP	B-LOC
+-	F	O	B-LOC
+Saint_Paul	Np	B-NP	B-LOC
 là	V	O	O
 sân_bay	N	B-NP	O
 bận_rộn	A	B-NP	O
 thứ	N	B-NP	O
 16	M	B-NP	O
 tại	E	B-PP	O
-Hoa_Kỳ	Np	B-NP	LOCATION
+Hoa_Kỳ	Np	B-NP	B-LOC
 tính	V	B-VP	O
 đến	E	B-PP	O
-năm	N	B-NP	TIME
-2014	M	B-NP	TIME
+năm	N	B-NP	B-TIME
+2014	M	B-NP	B-TIME
 .	F	O	O
 
 Chủ_đề	N	B-NP	O
@@ -1690,8 +1690,8 @@ Minnesota	Np	B-NP	O
 đánh_bại	V	B-NP	O
 Blue_Jays	Np	B-NP	O
 vào	E	B-PP	O
-thứ	Nc	B-NP	TIME
-Bảy	Np	B-NP	TIME
+thứ	Nc	B-NP	B-TIME
+Bảy	Np	B-NP	B-TIME
 .	F	O	O
 
 Thảm_họa	N	B-NP	O
@@ -1744,19 +1744,19 @@ nhắc_nhở	N	B-NP	O
 Gặp	V	B-VP	O
 đối_tác	N	B-NP	O
 lúc	N	B-NP	O
-14	M	B-NP	TIME
-chiều	N	B-NP	TIME
-thứ_tư	M	B-NP	TIME
+14	M	B-NP	B-TIME
+chiều	N	B-NP	B-TIME
+thứ_tư	M	B-NP	B-TIME
 
 Điểm	N	B-NP	O
 cực	A	B-AP	O
 bắc	N	B-NP	O
 của	E	B-PP	O
-châu	N	B-NP	LOCATION
-Mỹ	Np	B-NP	LOCATION
+châu	N	B-NP	B-LOC
+Mỹ	Np	B-NP	B-LOC
 là	V	O	O
-đảo	N	B-NP	LOCATION
-Kaffeklubben	Np	B-NP	LOCATION
+đảo	N	B-NP	B-LOC
+Kaffeklubben	Np	B-NP	B-LOC
 .	F	O	O
 
 Không_kém	V	B-NP	O
@@ -1779,13 +1779,13 @@ Belie	Np	B-NP	O
 di_cư	V	B-NP	O
 đầu_tiên	A	B-NP	O
 đến	E	B-PP	O
-Chicago	Np	B-NP	LOCATION
+Chicago	Np	B-NP	B-LOC
 trong	E	B-PP	O
-những	L	B-NP	TIME
-năm	N	B-NP	TIME
-1940	M	B-NP	TIME
-và	C	O	TIME
-1950	M	B-NP	TIME
+những	L	B-NP	B-TIME
+năm	N	B-NP	B-TIME
+1940	M	B-NP	B-TIME
+và	C	O	B-TIME
+1950	M	B-NP	B-TIME
 .	F	O	O
 
 thêm	V	B-VP	O
@@ -1794,16 +1794,16 @@ nhắc_nhở	N	B-NP	O
 sửa	V	B-VP	O
 điện_thoại	N	B-NP	O
 lúc	N	B-NP	O
-10	M	B-NP	TIME
-:	CH	O	TIME
-45	M	B-NP	TIME
+10	M	B-NP	B-TIME
+:	CH	O	B-TIME
+45	M	B-NP	B-TIME
 tại	E	B-PP	O
-111	N	B-NP	LOCATION
-Lò_Đúc	Np	B-NP	LOCATION
+111	N	B-NP	B-LOC
+Lò_Đúc	Np	B-NP	B-LOC
 
 Chiến_thắng	V	B-NP	O
-năm	N	B-NP	TIME
-2004	M	B-NP	TIME
+năm	N	B-NP	B-TIME
+2004	M	B-NP	B-TIME
 đã	R	O	O
 khiến	V	B-VP	O
 Câu_lạc_bộ	N	B-NP	O
@@ -1827,7 +1827,7 @@ danh_sách	N	B-NP	O
 này	P	B-NP	O
 ,	F	O	O
 vì	E	B-PP	O
-Copenhagen	Np	B-NP	LOCATION
+Copenhagen	Np	B-NP	B-LOC
 là	V	O	O
 một	M	B-NP	O
 trong	E	B-PP	O
@@ -1839,14 +1839,14 @@ nhất	A	B-NP	O
 giống	A	B-AP	O
 như	C	O	O
 ở	E	B-PP	O
-châu	N	B-NP	LOCATION
-Âu	Np	B-NP	LOCATION
+châu	N	B-NP	B-LOC
+Âu	Np	B-NP	B-LOC
 ,	F	O	O
 đặc_biệt	A	B-NP	O
 là	V	O	O
 vào	E	B-PP	O
-mùa	Nc	B-NP	TIME
-đông	N	B-AP	TIME
+mùa	Nc	B-NP	B-TIME
+đông	N	B-AP	B-TIME
 .	F	O	O
 
 Amadioha	Np	B-NP	O
@@ -1860,9 +1860,9 @@ của	E	B-PP	O
 người	Nc	B-NP	O
 Igbo	Np	B-NP	O
 ở	E	B-PP	O
-đông	N	B-AP	LOCATION
-nam	N	B-NP	LOCATION
-Nigeria	Np	B-NP	LOCATION
+đông	N	B-AP	B-LOC
+nam	N	B-NP	B-LOC
+Nigeria	Np	B-NP	B-LOC
 .	F	O	O
 
 Một	M	B-NP	O
@@ -1899,12 +1899,12 @@ lẩu	N	B-NP	O
 cùng	A	B-AP	O
 Hiền	Np	B-NP	O
 lúc	N	B-NP	O
-18	M	B-NP	TIME
-:	CH	O	TIME
-30	M	B-NP	TIME
+18	M	B-NP	B-TIME
+:	CH	O	B-TIME
+30	M	B-NP	B-TIME
 tại	E	B-PP	O
-ngõ	N	B-NP	LOCATION
-tự_do	M	B-NP	LOCATION
+ngõ	N	B-NP	B-LOC
+tự_do	M	B-NP	B-LOC
 
 Đây	P	B-NP	O
 là	V	O	O
@@ -1942,10 +1942,10 @@ Nancy	Np	B-NP	O
 nổi_tiếng	A	B-NP	O
 trong	E	B-PP	O
 học_kỳ	N	B-NP	O
-mùa	Nc	B-NP	TIME
-xuân	N	B-NP	TIME
-năm	N	B-NP	TIME
-1946	M	B-NP	TIME
+mùa	Nc	B-NP	B-TIME
+xuân	N	B-NP	B-TIME
+năm	N	B-NP	B-TIME
+1946	M	B-NP	B-TIME
 .	F	O	O
 
 Không	R	O	O
@@ -1955,8 +1955,8 @@ của	E	B-PP	O
 anh	N	B-NP	O
 ta	P	B-NP	O
 tại	E	B-PP	O
-nhà_ga	N	B-NP	LOCATION
-Pomagol	Np	B-NP	LOCATION
+nhà_ga	N	B-NP	B-LOC
+Pomagol	Np	B-NP	B-LOC
 .	F	O	O
 
 Hầu_hết	X	B-NP	O
@@ -1970,7 +1970,7 @@ yên	A	B-AP	O
 Cô	N	B-NP	O
 giải_thích	V	B-NP	O
 rằng	C	O	O
-Trung_Quốc	Np	B-NP	LOCATION
+Trung_Quốc	Np	B-NP	B-LOC
 từ	E	B-PP	O
 lâu	A	B-AP	O
 đã	R	O	O
@@ -1984,11 +1984,11 @@ biện_chứng	N	B-NP	O
 đi	V	B-VP	O
 công_tác	V	B-NP	O
 vào	E	B-PP	O
-sáng	N	B-NP	TIME
-thứ	N	B-NP	TIME
-hai	M	B-NP	TIME
-tuần	N	B-NP	TIME
-sau	N	B-NP	TIME
+sáng	N	B-NP	B-TIME
+thứ	N	B-NP	B-TIME
+hai	M	B-NP	B-TIME
+tuần	N	B-NP	B-TIME
+sau	N	B-NP	B-TIME
 
 Bằng_chứng	N	B-NP	O
 là	V	O	O
@@ -2013,10 +2013,10 @@ Brescia	Np	B-NP	O
 xảy	V	B-VP	O
 ra	V	B-VP	O
 vào	E	B-PP	O
-năm	N	B-NP	TIME
-1769	M	B-NP	TIME
+năm	N	B-NP	B-TIME
+1769	M	B-NP	B-TIME
 tại	E	B-PP	O
-Brescia	Np	B-NP	LOCATION
+Brescia	Np	B-NP	B-LOC
 .	F	O	O
 
 Archduke_Ferdinand	Np	B-NP	O
@@ -2058,8 +2058,8 @@ phát_hiện	V	B-NP	O
 ra	R	B-VP	O
 Polonium	Np	B-NP	O
 vào	E	B-PP	O
-năm	N	B-NP	TIME
-1898	M	B-NP	TIME
+năm	N	B-NP	B-TIME
+1898	M	B-NP	B-TIME
 .	F	O	O
 
 Phong_trào	N	B-NP	O
@@ -2077,18 +2077,18 @@ khỏi	V	B-VP	O
 ách	N	B-NP	O
 thống_trị	V	B-NP	O
 của	E	B-PP	O
-Anh	Np	B-NP	LOCATION
+Anh	Np	B-NP	B-LOC
 .	F	O	O
 
 Về	V	B-VP	O
 Quê	Np	B-NP	O
 Ngoại	Np	B-NP	O
-ngày	N	B-NP	TIME
-25	M	B-NP	TIME
-tháng	N	B-NP	TIME
-5	M	B-NP	TIME
-năm	N	B-NP	TIME
-2019	M	B-NP	TIME
+ngày	N	B-NP	B-TIME
+25	M	B-NP	B-TIME
+tháng	N	B-NP	B-TIME
+5	M	B-NP	B-TIME
+năm	N	B-NP	B-TIME
+2019	M	B-NP	B-TIME
 
 Cuộc	N	B-NP	O
 biểu_tình	V	B-NP	O
@@ -2108,12 +2108,12 @@ và	C	O	O
 Diana	Np	B-NP	O
 là	V	O	O
 vào	E	B-PP	O
-ngày	N	B-NP	TIME
-29	M	B-NP	TIME
-tháng	N	B-NP	TIME
-7	M	B-NP	TIME
-năm	N	B-NP	TIME
-1981	M	B-NP	TIME
+ngày	N	B-NP	B-TIME
+29	M	B-NP	B-TIME
+tháng	N	B-NP	B-TIME
+7	M	B-NP	B-TIME
+năm	N	B-NP	B-TIME
+1981	M	B-NP	B-TIME
 .	F	O	O
 
 Anh	N	B-NP	O
@@ -2135,9 +2135,9 @@ lại	R	O	O
 sửa	V	B-VP	O
 xe_máy	N	B-NP	O
 lúc	N	B-NP	O
-9	M	B-NP	TIME
-giờ	Nu	B-NP	TIME
-sáng_mai	M	B-NP	TIME
+9	M	B-NP	B-TIME
+giờ	Nu	B-NP	B-TIME
+sáng_mai	M	B-NP	B-TIME
 
 Tập_trung	V	B-NP	O
 vào	E	B-PP	O
@@ -2167,7 +2167,7 @@ là	V	O	O
 Chipewyan	Np	B-NP	O
 .	F	O	O
 
-Tomales_Bay	Np	B-NP	LOCATION
+Tomales_Bay	Np	B-NP	B-LOC
 được	V	O	O
 công_nhận	V	B-NP	O
 để	E	B-PP	O
@@ -2178,29 +2178,29 @@ Nhóm	N	B-NP	O
 Đồ_án	N	B-NP	O
 3	M	B-NP	O
 :	F	O	O
-11	M	B-NP	TIME
-:	F	O	TIME
-00	M	B-NP	TIME
-sáng	N	B-NP	TIME
-thứ	N	B-NP	TIME
-6	M	B-NP	TIME
+11	M	B-NP	B-TIME
+:	F	O	B-TIME
+00	M	B-NP	B-TIME
+sáng	N	B-NP	B-TIME
+thứ	N	B-NP	B-TIME
+6	M	B-NP	B-TIME
 (	F	O	O
-1/3/2019	M	B-NP	TIME
+1/3/2019	M	B-NP	B-TIME
 )	F	O	O
 ,	F	O	O
 tại	E	B-PP	O
-phòng	N	B-NP	LOCATION
-803	M	B-NP	LOCATION
-thư_viện	N	B-NP	LOCATION
-TQB	Np	B-NP	LOCATION
+phòng	N	B-NP	B-LOC
+803	M	B-NP	B-LOC
+thư_viện	N	B-NP	B-LOC
+TQB	Np	B-NP	B-LOC
 
 Vào	E	B-VP	O
-ngày	N	B-NP	TIME
-15	M	B-NP	TIME
-tháng	N	B-NP	TIME
-11	M	B-NP	TIME
-năm	N	B-NP	TIME
-2012	M	B-NP	TIME
+ngày	N	B-NP	B-TIME
+15	M	B-NP	B-TIME
+tháng	N	B-NP	B-TIME
+11	M	B-NP	B-TIME
+năm	N	B-NP	B-TIME
+2012	M	B-NP	B-TIME
 ,	F	O	O
 SKW	Ny	B-NP	O
 đã	R	O	O
@@ -2288,8 +2288,8 @@ sát_thương	V	B-NP	O
 Điều	N	B-NP	O
 chắc_chắn	A	B-NP	O
 là	V	O	O
-quần_đảo	N	B-NP	LOCATION
-Juan_Fernández	Np	B-NP	LOCATION
+quần_đảo	N	B-NP	B-LOC
+Juan_Fernández	Np	B-NP	B-LOC
 là	V	O	O
 một	M	B-NP	O
 nhóm	Nc	B-NP	O
@@ -2300,8 +2300,8 @@ người	N	B-NP	O
 thưa_thớt	A	B-NP	O
 .	F	O	O
 
-Năm	N	B-NP	TIME
-1962	M	B-NP	TIME
+Năm	N	B-NP	B-TIME
+1962	M	B-NP	B-TIME
 ,	F	O	O
 Ropeway	Np	B-NP	O
 Nokogiriyama	Np	B-NP	O
@@ -2320,8 +2320,8 @@ bốn	M	B-NP	O
 kiếp	N	B-NP	O
 .	F	O	O
 
-Năm	N	B-NP	TIME
-1998	M	B-NP	TIME
+Năm	N	B-NP	B-TIME
+1998	M	B-NP	B-TIME
 ,	F	O	O
 hai	M	B-NP	O
 vườn	N	B-NP	O
@@ -2330,7 +2330,7 @@ quốc_gia	N	B-NP	O
 được	V	O	O
 chỉ_định	V	B-NP	O
 trên	E	B-PP	O
-Sumba	Np	B-NP	LOCATION
+Sumba	Np	B-NP	B-LOC
 để	E	B-PP	O
 bảo_vệ	V	B-NP	O
 các	L	B-NP	O
@@ -2345,12 +2345,12 @@ nhắc_nhở	N	B-NP	O
 đi	V	B-VP	O
 sinh_nhật	V	B-NP	O
 Ngọc	V	B-NP	O
-ngày	N	B-NP	TIME
-15	M	B-NP	TIME
-tháng	N	B-NP	TIME
-2	M	B-NP	TIME
-năm	N	B-NP	TIME
-2019	M	B-NP	TIME
+ngày	N	B-NP	B-TIME
+15	M	B-NP	B-TIME
+tháng	N	B-NP	B-TIME
+2	M	B-NP	B-TIME
+năm	N	B-NP	B-TIME
+2019	M	B-NP	B-TIME
 
 Thêm	V	B-VP	O
 sự_kiện	N	B-NP	O
@@ -2358,19 +2358,19 @@ tham_dự	V	B-NP	O
 tiệc	N	B-NP	O
 công_ty	V	B-NP	O
 tại	E	B-PP	O
-nhà_hàng	N	B-NP	LOCATION
-Sen	Np	B-NP	LOCATION
-Tây_Hồ	Np	B-NP	LOCATION
+nhà_hàng	N	B-NP	B-LOC
+Sen	Np	B-NP	B-LOC
+Tây_Hồ	Np	B-NP	B-LOC
 lúc	N	B-NP	O
-19	M	B-NP	TIME
-:	CH	O	TIME
-30	M	B-NP	TIME
-ngày	N	B-NP	TIME
-16	M	B-NP	TIME
-tháng	N	B-NP	TIME
-1	M	B-NP	TIME
-năm	N	B-NP	TIME
-2019	M	B-NP	TIME
+19	M	B-NP	B-TIME
+:	CH	O	B-TIME
+30	M	B-NP	B-TIME
+ngày	N	B-NP	B-TIME
+16	M	B-NP	B-TIME
+tháng	N	B-NP	B-TIME
+1	M	B-NP	B-TIME
+năm	N	B-NP	B-TIME
+2019	M	B-NP	B-TIME
 
 Gamma_Pegasi	Np	B-NP	O
 thuộc	V	B-VP	O
@@ -2391,7 +2391,7 @@ E	Np	B-NP	O
 là	V	O	O
 tọa_độ	N	B-NP	O
 ở	E	B-PP	O
-Nga	Np	B-NP	LOCATION
+Nga	Np	B-NP	B-LOC
 .	F	O	O
 
 Liên_hoan	V	B-NP	O
@@ -2403,12 +2403,12 @@ hiện	V	B-NP	O
 được	R	O	O
 tổ_chức	V	B-NP	O
 tại	E	B-PP	O
-California	Np	B-NP	LOCATION
+California	Np	B-NP	B-LOC
 .	F	O	O
 
-Trung_tâm	N	B-NP	LOCATION
-thương_mại	N	B-NP	LOCATION
-One_World	Np	B-NP	LOCATION
+Trung_tâm	N	B-NP	B-LOC
+thương_mại	N	B-NP	B-LOC
+One_World	Np	B-NP	B-LOC
 là	V	O	O
 tòa	N	B-NP	O
 nhà	N	B-NP	O
@@ -2425,7 +2425,7 @@ Grapevine	Np	B-NP	O
 được	V	O	O
 xác_định	V	B-NP	O
 ở	E	B-PP	O
-Úc	Np	B-NP	LOCATION
+Úc	Np	B-NP	B-LOC
 .	F	O	O
 
 Kế_thừa	V	B-NP	O
@@ -2483,16 +2483,16 @@ trước	E	B-PP	O
 tham_gia	N	B-NP	O
 hội_thảo	V	B-NP	O
 lúc	N	B-NP	O
-15	M	B-NP	TIME
-giờ	Nu	B-NP	TIME
-chiều	N	B-NP	TIME
-nay	P	B-NP	TIME
+15	M	B-NP	B-TIME
+giờ	Nu	B-NP	B-TIME
+chiều	N	B-NP	B-TIME
+nay	P	B-NP	B-TIME
 
 Vào	E	B-VP	O
-mùa	Nc	B-NP	TIME
-đông	N	B-AP	TIME
-năm	N	B-NP	TIME
-1977	M	B-NP	TIME
+mùa	Nc	B-NP	B-TIME
+đông	N	B-AP	B-TIME
+năm	N	B-NP	B-TIME
+1977	M	B-NP	B-TIME
 ,	F	O	O
 đã	R	O	O
 có	V	B-VP	O
@@ -2507,18 +2507,18 @@ boolarra	N	B-NP	O
 họp	V	B-VP	O
 khách_hàng	N	B-NP	O
 lúc	N	B-NP	O
-9	M	B-NP	TIME
-:	CH	O	TIME
-15	M	B-NP	TIME
-ngày	N	B-NP	TIME
-25	M	B-NP	TIME
-tháng	N	B-NP	TIME
-5	M	B-NP	TIME
-năm	N	B-NP	TIME
-2019	M	B-NP	TIME
+9	M	B-NP	B-TIME
+:	CH	O	B-TIME
+15	M	B-NP	B-TIME
+ngày	N	B-NP	B-TIME
+25	M	B-NP	B-TIME
+tháng	N	B-NP	B-TIME
+5	M	B-NP	B-TIME
+năm	N	B-NP	B-TIME
+2019	M	B-NP	B-TIME
 tại	E	B-PP	O
-73	N	B-NP	LOCATION
-Lò_Đúc	Np	B-NP	LOCATION
+73	N	B-NP	B-LOC
+Lò_Đúc	Np	B-NP	B-LOC
 
 Bạn	N	B-NP	O
 có	V	B-VP	O
@@ -2540,10 +2540,10 @@ có	V	B-VP	O
 cuộc	N	B-NP	O
 hẹn	V	B-VP	O
 lúc	N	B-NP	O
-mười	M	B-NP	TIME
-giờ	Nu	B-NP	TIME
-sáng	N	B-NP	TIME
-thứ_tư	M	B-NP	TIME
+mười	M	B-NP	B-TIME
+giờ	Nu	B-NP	B-TIME
+sáng	N	B-NP	B-TIME
+thứ_tư	M	B-NP	B-TIME
 
 Cuộc	N	B-NP	O
 đua	V	B-VP	O
@@ -2554,7 +2554,7 @@ cuộc	N	B-NP	O
 đua	V	B-VP	O
 du_thuyền	N	B-NP	O
 từ	E	B-PP	O
-Cape_Town	Np	B-NP	LOCATION
+Cape_Town	Np	B-NP	B-LOC
 đến	E	B-PP	O
 các	L	B-NP	O
 điểm	N	B-NP	O
@@ -2562,7 +2562,7 @@ các	L	B-NP	O
 khác	A	B-AP	O
 nhau	N	B-NP	O
 ở	E	B-PP	O
-Nam_Mỹ	Np	B-NP	LOCATION
+Nam_Mỹ	Np	B-NP	B-LOC
 ,	F	O	O
 thường	R	O	O
 dọc	A	B-AP	O
@@ -2571,9 +2571,9 @@ tuyến	N	B-NP	O
 đường	N	B-NP	O
 Cape_Town	Np	B-NP	O
 đến	V	B-PP	O
-Rio	Np	B-NP	LOCATION
-de	V	B-NP	LOCATION
-Janeiro	Np	B-NP	LOCATION
+Rio	Np	B-NP	B-LOC
+de	V	B-NP	B-LOC
+Janeiro	Np	B-NP	B-LOC
 ,	F	O	O
 nhưng	C	O	O
 đôi_khi	R	B-NP	O
@@ -2583,7 +2583,7 @@ các	L	B-NP	O
 điểm	N	B-NP	O
 khác	A	B-AP	O
 ở	E	B-PP	O
-Nam_Mỹ	Np	B-NP	LOCATION
+Nam_Mỹ	Np	B-NP	B-LOC
 .	F	O	O
 
 Có	V	B-VP	O
@@ -2621,10 +2621,10 @@ lối	N	B-NP	O
 vào	E	B-PP	O
 xe	N	B-NP	O
 đến	V	B-PP	O
-Công_viên	N	B-NP	LOCATION
-Quốc_gia	N	B-NP	LOCATION
-Núi_lửa	N	B-NP	LOCATION
-Lassen	Np	B-NP	LOCATION
+Công_viên	N	B-NP	B-LOC
+Quốc_gia	N	B-NP	B-LOC
+Núi_lửa	N	B-NP	B-LOC
+Lassen	Np	B-NP	B-LOC
 .	F	O	O
 
 Bạn	N	B-NP	O
@@ -2642,15 +2642,15 @@ số	N	B-NP	O
 9480	M	B-NP	O
 ?	F	O	O
 
-Sân_bay	N	B-NP	LOCATION
-quốc_tế	N	B-NP	LOCATION
-Thượng_Hải	Np	B-NP	LOCATION
-Phố_Đông	Np	B-NP	LOCATION
+Sân_bay	N	B-NP	B-LOC
+quốc_tế	N	B-NP	B-LOC
+Thượng_Hải	Np	B-NP	B-LOC
+Phố_Đông	Np	B-NP	B-LOC
 là	V	O	O
 sân_bay	N	B-NP	O
 quốc_tế	N	B-NP	O
 của	E	B-PP	O
-Thượng_Hải	Np	B-NP	LOCATION
+Thượng_Hải	Np	B-NP	B-LOC
 .	F	O	O
 
 thêm	V	B-VP	O
@@ -2659,8 +2659,8 @@ nhắc_nhở	N	B-NP	O
 gặp	V	B-VP	O
 khách_hàng	N	B-NP	O
 vào	E	B-PP	O
-tối	N	B-NP	TIME
-nay	P	B-NP	TIME
+tối	N	B-NP	B-TIME
+nay	P	B-NP	B-TIME
 
 Họ	P	B-NP	O
 đã	R	O	O
@@ -2682,8 +2682,8 @@ Hiệp_hội	N	B-NP	O
 Triển_lãm	V	B-NP	O
 Y_tế	N	B-NP	O
 vào	E	B-PP	O
-năm	N	B-NP	TIME
-1930	M	B-NP	TIME
+năm	N	B-NP	B-TIME
+1930	M	B-NP	B-TIME
 .	F	O	O
 
 Strontium_mềm	N	B-NP	O
@@ -2719,15 +2719,15 @@ nhau	N	B-NP	O
 .	F	O	O
 
 Vào	E	B-VP	O
-ngày	N	B-NP	TIME
-5	M	B-NP	TIME
-tháng	N	B-NP	TIME
-12	M	B-NP	TIME
-năm	N	B-NP	TIME
-1901	M	B-NP	TIME
+ngày	N	B-NP	B-TIME
+5	M	B-NP	B-TIME
+tháng	N	B-NP	B-TIME
+12	M	B-NP	B-TIME
+năm	N	B-NP	B-TIME
+1901	M	B-NP	B-TIME
 ,	F	O	O
 tại	E	B-PP	O
-Chicago	Np	B-NP	LOCATION
+Chicago	Np	B-NP	B-LOC
 ,	F	O	O
 Walt	Np	B-NP	O
 Disney	Np	B-NP	O
@@ -2746,7 +2746,7 @@ Quyền	Np	B-NP	O
 anh	N	B-NP	O
 Quốc_tế	A	B-NP	O
 của	E	B-PP	O
-New_York	Np	B-NP	LOCATION
+New_York	Np	B-NP	B-LOC
 là	V	O	O
 một	M	B-NP	O
 tập_đoàn	N	B-NP	O
@@ -2759,8 +2759,8 @@ và	C	O	O
 Arthur	Np	B-NP	O
 M._Wirtz	Np	B-NP	O
 vào	E	B-PP	O
-năm	N	B-NP	TIME
-1949	M	B-NP	TIME
+năm	N	B-NP	B-TIME
+1949	M	B-NP	B-TIME
 .	F	O	O
 
 thêm	V	B-VP	O
@@ -2769,7 +2769,7 @@ nhắc_nhở	N	B-NP	O
 sửa	V	B-VP	O
 xe_máy	V	B-NP	O
 vào	E	B-PP	O
-sáng_mai	M	B-NP	TIME
+sáng_mai	M	B-NP	B-TIME
 
 Viện	N	B-NP	O
 Sức_khỏe	V	B-NP	O
@@ -2820,8 +2820,8 @@ chính_thức	A	B-NP	O
 được	R	O	O
 thành_lập	V	B-NP	O
 vào	E	B-PP	O
-ngày	N	B-NP	TIME
-22/03/2016	M	B-NP	TIME
+ngày	N	B-NP	B-TIME
+22/03/2016	M	B-NP	B-TIME
 .	F	O	O
 
 đi	V	B-VP	O
@@ -2830,10 +2830,10 @@ cà_phê	N	B-NP	O
 cùng	A	B-AP	O
 Vy	Np	B-NP	O
 lúc	N	B-NP	O
-14	M	B-NP	TIME
-:	CH	O	TIME
-30	M	B-NP	TIME
-chiều	N	B-NP	TIME
+14	M	B-NP	B-TIME
+:	CH	O	B-TIME
+30	M	B-NP	B-TIME
+chiều	N	B-NP	B-TIME
 
 Quảng_trường	N	B-NP	O
 Unità_d	N	B-NP	O
@@ -2841,18 +2841,18 @@ Unità_d	N	B-NP	O
 #	F	B-NP	O
 39	M	B-NP	O
 ;	F	O	O
-Italia	Np	B-NP	LOCATION
+Italia	Np	B-NP	B-LOC
 là	V	O	O
 quảng_trường	N	B-NP	O
 chính	T	O	O
 ở	E	B-PP	O
-Trieste	Np	B-NP	LOCATION
+Trieste	Np	B-NP	B-LOC
 .	F	O	O
 
 Pho_mát	N	B-NP	O
-Tây_Ban_Nha	Np	B-NP	LOCATION
+Tây_Ban_Nha	Np	B-NP	B-LOC
 và	C	O	O
-Mexico	Np	B-NP	LOCATION
+Mexico	Np	B-NP	B-LOC
 được	V	O	O
 làm	V	B-VP	O
 từ	E	B-PP	O
@@ -2868,14 +2868,14 @@ tham_dự	N	B-NP	O
 tiệc	N	B-NP	O
 công_ty	V	B-NP	O
 lúc	N	B-NP	O
-14	M	B-NP	TIME
-giờ	Nu	B-NP	TIME
-ngày	N	B-NP	TIME
-15	M	B-NP	TIME
-tháng	N	B-NP	TIME
-3	M	B-NP	TIME
-năm	N	B-NP	TIME
-2019	M	B-NP	TIME
+14	M	B-NP	B-TIME
+giờ	Nu	B-NP	B-TIME
+ngày	N	B-NP	B-TIME
+15	M	B-NP	B-TIME
+tháng	N	B-NP	B-TIME
+3	M	B-NP	B-TIME
+năm	N	B-NP	B-TIME
+2019	M	B-NP	B-TIME
 
 thêm	V	B-VP	O
 nhắc_nhở	N	B-NP	O
@@ -2884,18 +2884,18 @@ shopping	V	B-NP	O
 cùng	C	B-AP	O
 bạn	N	B-NP	O
 vào	E	B-PP	O
-tối	N	B-NP	TIME
-mai	M	B-NP	TIME
+tối	N	B-NP	B-TIME
+mai	M	B-NP	B-TIME
 
 Họ	P	B-NP	O
 dừng	V	B-VP	O
 lại	R	O	O
 ở	E	B-PP	O
-trạm	N	B-NP	LOCATION
-Bafoulabé	Np	B-NP	LOCATION
+trạm	N	B-NP	B-LOC
+Bafoulabé	Np	B-NP	B-LOC
 vào	E	B-PP	O
-thứ	Nc	B-NP	TIME
-Sáu	Np	B-NP	TIME
+thứ	Nc	B-NP	B-TIME
+Sáu	Np	B-NP	B-TIME
 .	F	O	O
 
 Blitz	Np	B-NP	O
@@ -2911,8 +2911,8 @@ bạn	N	B-NP	O
 
 Vào	E	B-VP	O
 lúc	N	B-NP	O
-mười	M	B-NP	TIME
-giờ	Nu	B-NP	TIME
+mười	M	B-NP	B-TIME
+giờ	Nu	B-NP	B-TIME
 chúng_tôi	P	B-NP	O
 sẽ	R	O	O
 lên	V	B-VP	O
@@ -2924,27 +2924,27 @@ Chiến_tranh	N	B-NP	O
 Triều_Tiên	Np	B-NP	O
 bắt_đầu	V	B-NP	O
 vào	E	B-PP	O
-năm	N	B-NP	TIME
-1950	M	B-NP	TIME
+năm	N	B-NP	B-TIME
+1950	M	B-NP	B-TIME
 và	C	O	O
 kéo_dài	V	B-NP	O
 đến	E	B-PP	O
-năm	N	B-NP	TIME
-1953	M	B-NP	TIME
+năm	N	B-NP	B-TIME
+1953	M	B-NP	B-TIME
 .	F	O	O
 
-Năm	N	B-NP	TIME
-1997	M	B-NP	TIME
+Năm	N	B-NP	B-TIME
+1997	M	B-NP	B-TIME
 Torn	Np	B-NP	O
 được	V	O	O
 phát_hành	V	B-NP	O
 .	F	O	O
 
 Vào	E	B-VP	O
-tháng	N	B-NP	TIME
-12	M	B-NP	TIME
-năm	N	B-NP	TIME
-1888	M	B-NP	TIME
+tháng	N	B-NP	B-TIME
+12	M	B-NP	B-TIME
+năm	N	B-NP	B-TIME
+1888	M	B-NP	B-TIME
 ,	F	O	O
 ông	N	B-NP	O
 đã	R	O	O
@@ -2959,8 +2959,8 @@ sửa_đổi	V	B-NP	O
 Đạo_luật	N	B-NP	O
 Năng_lượng	V	B-NP	O
 nguyên_tử	N	B-NP	O
-năm	N	B-NP	TIME
-1946	M	B-NP	TIME
+năm	N	B-NP	B-TIME
+1946	M	B-NP	B-TIME
 đã	R	O	O
 mang	V	B-VP	O
 lại	R	O	O
@@ -3020,7 +3020,7 @@ Avernas_Tomb	Np	B-NP	O
 .	F	O	O
 
 Mỗi	M	B-NP	O
-Chủ_nhật	N	B-NP	TIME
+Chủ_nhật	N	B-NP	B-TIME
 ,	F	O	O
 đó	P	B-NP	O
 là	V	O	O
@@ -3064,10 +3064,10 @@ Atlas	V	B-NP	O
 được	R	O	O
 phát_hiện	V	B-NP	O
 vào	E	B-PP	O
-tháng	N	B-NP	TIME
-10	M	B-NP	TIME
-năm	N	B-NP	TIME
-1980	M	B-NP	TIME
+tháng	N	B-NP	B-TIME
+10	M	B-NP	B-TIME
+năm	N	B-NP	B-TIME
+1980	M	B-NP	B-TIME
 .	F	O	O
 
 Xếp_hạng	V	B-NP	O
@@ -3096,25 +3096,25 @@ uống	V	B-VP	O
 cà_phê	N	B-NP	O
 cùng	C	B-AP	O
 bạn	N	B-NP	O
-tối	N	B-NP	TIME
-mai	M	B-NP	TIME
+tối	N	B-NP	B-TIME
+mai	M	B-NP	B-TIME
 
-Gibraltar	Np	B-NP	LOCATION
+Gibraltar	Np	B-NP	B-LOC
 ,	F	O	O
 một	M	B-NP	O
 phần_lớn	N	B-NP	O
 lãnh_thổ	N	B-NP	O
 của	E	B-PP	O
-Anh	Np	B-NP	LOCATION
+Anh	Np	B-NP	B-LOC
 tự_trị	V	B-NP	O
 trên	E	B-PP	O
 mũi	N	B-NP	O
-Bán_đảo	N	B-NP	LOCATION
-Iberia	Np	B-NP	LOCATION
+Bán_đảo	N	B-NP	B-LOC
+Iberia	Np	B-NP	B-LOC
 có	V	B-VP	O
 lãnh_thổ	N	B-NP	O
 do	E	B-PP	O
-Tây_Ban_Nha	Np	B-NP	LOCATION
+Tây_Ban_Nha	Np	B-NP	B-LOC
 tuyên_bố	V	B-NP	O
 chủ_quyền	N	B-NP	O
 ,	F	O	O
@@ -3165,9 +3165,9 @@ dẫn_đầu	N	B-NP	O
 để	E	B-PP	O
 leo	V	B-VP	O
 lên	R	B-VP	O
-Núi_Pica	Np	B-NP	LOCATION
-da	N	B-NP	LOCATION
-Neblina	Np	B-NP	LOCATION
+Núi_Pica	Np	B-NP	B-LOC
+da	N	B-NP	B-LOC
+Neblina	Np	B-NP	B-LOC
 .	F	O	O
 
 Có	V	B-VP	O
@@ -3199,15 +3199,15 @@ cực_kỳ	R	B-NP	O
 kỳ_quặc	A	B-NP	O
 .	F	O	O
 
-Nhà_thờ	N	B-NP	LOCATION
-St_Mary	Np	B-NP	LOCATION
-Magdalene	Np	B-NP	LOCATION
+Nhà_thờ	N	B-NP	B-LOC
+St_Mary	Np	B-NP	B-LOC
+Magdalene	Np	B-NP	B-LOC
 là	V	O	O
 một	M	B-NP	O
 nhà_kho	N	B-NP	O
 từ	E	B-PP	O
-thế_kỷ	N	B-NP	TIME
-18	M	B-NP	TIME
+thế_kỷ	N	B-NP	B-TIME
+18	M	B-NP	B-TIME
 .	F	O	O
 
 Đi	V	B-VP	O
@@ -3254,9 +3254,9 @@ dowlas	N	B-NP	O
 ,	F	O	O
 xuất_hiện	V	B-NP	O
 vào	E	B-PP	O
-đầu	N	B-NP	TIME
-thế_kỷ	N	B-NP	TIME
-XX.	Np	B-NP	TIME
+đầu	N	B-NP	B-TIME
+thế_kỷ	N	B-NP	B-TIME
+XX.	Np	B-NP	B-TIME
 
 Được	V	B-VP	O
 ủy_quyền	V	B-NP	O
@@ -3266,18 +3266,18 @@ Feast_Of	Np	B-NP	O
 The_Rosary	Np	B-NP	O
 được	V	O	O
 vẽ	V	B-VP	O
-năm	N	B-NP	TIME
-1506	M	B-NP	TIME
+năm	N	B-NP	B-TIME
+1506	M	B-NP	B-TIME
 .	F	O	O
 
 Ra_mắt	V	B-NP	O
 vào	E	B-PP	O
-ngày	N	B-NP	TIME
-1	M	B-NP	TIME
-tháng	N	B-NP	TIME
-10	M	B-NP	TIME
-năm	N	B-NP	TIME
-2009	M	B-NP	TIME
+ngày	N	B-NP	B-TIME
+1	M	B-NP	B-TIME
+tháng	N	B-NP	B-TIME
+10	M	B-NP	B-TIME
+năm	N	B-NP	B-TIME
+2009	M	B-NP	B-TIME
 ,	F	O	O
 nó	P	B-NP	O
 được	R	O	O
@@ -3301,8 +3301,8 @@ sôi_nổi	A	B-NP	O
 .	F	O	O
 
 Từ	E	B-PP	O
-năm	N	B-NP	TIME
-1994	M	B-NP	TIME
+năm	N	B-NP	B-TIME
+1994	M	B-NP	B-TIME
 ,	F	O	O
 193	M	B-NP	O
 thực	N	B-AP	O
@@ -3351,13 +3351,13 @@ Dàn_nhạc	N	B-NP	O
 Louisville	Np	B-NP	O
 được	V	O	O
 thành_lập	V	B-NP	O
-năm	N	B-NP	TIME
-1937	M	B-NP	TIME
+năm	N	B-NP	B-TIME
+1937	M	B-NP	B-TIME
 bởi	E	B-PP	O
 Robert_Whitney	Np	B-NP	O
 .	F	O	O
 
-Zambia	Np	B-NP	LOCATION
+Zambia	Np	B-NP	B-LOC
 là	V	O	O
 lý_do	N	B-NP	O
 cho	E	B-PP	O
@@ -3379,19 +3379,19 @@ lẩu	N	B-NP	O
 cùng	A	B-AP	O
 Hiền	Np	B-NP	O
 lúc	N	B-NP	O
-19	M	B-NP	TIME
-:	CH	O	TIME
-30	M	B-NP	TIME
-tối	N	B-NP	TIME
-nay	P	B-NP	TIME
+19	M	B-NP	B-TIME
+:	CH	O	B-TIME
+30	M	B-NP	B-TIME
+tối	N	B-NP	B-TIME
+nay	P	B-NP	B-TIME
 
 Bạn	N	B-NP	O
 đúng	A	B-AP	O
 khi	N	B-NP	O
 nói	V	B-VP	O
-Sở	N	B-NP	LOCATION
-thú	N	B-NP	LOCATION
-David_Khaylor	Np	B-NP	LOCATION
+Sở	N	B-NP	B-LOC
+thú	N	B-NP	B-LOC
+David_Khaylor	Np	B-NP	B-LOC
 là	V	O	O
 một	M	B-NP	O
 trong	E	B-PP	O
@@ -3401,21 +3401,21 @@ thú	N	B-NP	O
 nhỏ	A	B-AP	O
 nhất	A	B-NP	O
 ở	E	B-PP	O
-Hoa_Kỳ	Np	B-NP	LOCATION
+Hoa_Kỳ	Np	B-NP	B-LOC
 .	F	O	O
 
 Khi	N	B-NP	O
 ở	E	B-PP	O
-Florida	Np	B-NP	LOCATION
+Florida	Np	B-NP	B-LOC
 ,	F	O	O
 chúng_tôi	P	B-NP	O
 đã	R	O	O
 thấy	V	B-VP	O
-vịnh	N	B-NP	LOCATION
-Apalachicola	Np	B-NP	LOCATION
+vịnh	N	B-NP	B-LOC
+Apalachicola	Np	B-NP	B-LOC
 .	F	O	O
 
-Trung_Quốc	Np	B-NP	LOCATION
+Trung_Quốc	Np	B-NP	B-LOC
 có	V	B-VP	O
 quốc_hội	N	B-NP	O
 lớn	A	B-AP	O
@@ -3453,8 +3453,8 @@ nhắc_nhở	N	B-NP	O
 đi	V	B-VP	O
 dã_ngoại	V	B-NP	O
 vào	E	B-PP	O
-cuối	N	B-NP	TIME
-tuần	N	B-NP	TIME
+cuối	N	B-NP	B-TIME
+tuần	N	B-NP	B-TIME
 
 Có	V	B-VP	O
 một	M	B-NP	O
@@ -3463,12 +3463,12 @@ sông	N	B-NP	O
 ở	E	B-PP	O
 phía	N	B-NP	O
 bắc	N	B-NP	O
-nước	N	B-NP	LOCATION
-Ý	Np	B-NP	LOCATION
+nước	N	B-NP	B-LOC
+Ý	Np	B-NP	B-LOC
 được	R	O	O
 gọi	V	B-VP	O
 là	C	O	O
-Piave	Np	B-NP	LOCATION
+Piave	Np	B-NP	B-LOC
 .	F	O	O
 
 Clan_Bethune	Np	B-NP	O
@@ -3519,11 +3519,11 @@ Mũi_tên	N	B-NP	O
 ,	F	O	O
 hoạt_động	V	B-NP	O
 từ	E	B-PP	O
-năm	N	B-NP	TIME
-1926	M	B-NP	TIME
-đến	E	B-PP	TIME
-năm	N	B-NP	TIME
-1967	M	B-NP	TIME
+năm	N	B-NP	B-TIME
+1926	M	B-NP	B-TIME
+đến	E	B-PP	B-TIME
+năm	N	B-NP	B-TIME
+1967	M	B-NP	B-TIME
 .	F	O	O
 
 Tôi	P	B-NP	O
@@ -3539,10 +3539,10 @@ giới_thiệu	V	B-NP	O
 lần	N	B-NP	O
 đầu_tiên	A	B-NP	O
 vào	E	B-PP	O
-thế_kỷ	N	B-NP	TIME
-thứ	N	B-NP	TIME
-mười	M	B-NP	TIME
-tám	N	B-NP	TIME
+thế_kỷ	N	B-NP	B-TIME
+thứ	N	B-NP	B-TIME
+mười	M	B-NP	B-TIME
+tám	N	B-NP	B-TIME
 bởi	E	B-PP	O
 Nicolas	Np	B-NP	O
 -	F	O	O
@@ -3579,7 +3579,7 @@ phim	N	B-NP	O
 trôi_dạt	V	B-NP	O
 ra_mắt	V	B-NP	O
 tại	E	B-PP	O
-Hoa_Kỳ	Np	B-NP	LOCATION
+Hoa_Kỳ	Np	B-NP	B-LOC
 .	F	O	O
 
 Tôi	P	B-NP	O
@@ -3627,10 +3627,10 @@ nút	N	B-NP	O
 
 Thời_gian	N	B-NP	O
 :	F	O	O
-7h30	M	B-NP	TIME
-Sáng	N	B-NP	TIME
-Chủ_Nhật	Np	B-NP	TIME
-17/11/2018	M	B-NP	TIME
+7h30	M	B-NP	B-TIME
+Sáng	N	B-NP	B-TIME
+Chủ_Nhật	Np	B-NP	B-TIME
+17/11/2018	M	B-NP	B-TIME
 
 Grivna	Np	B-NP	O
 như	C	O	O
@@ -3645,16 +3645,16 @@ tồn_tại	V	B-NP	O
 
 Kể	V	B-VP	O
 từ	E	B-PP	O
-ngày	N	B-NP	TIME
-1	M	B-NP	TIME
-tháng	N	B-NP	TIME
-7	M	B-NP	TIME
-năm	N	B-NP	TIME
-1950	M	B-NP	TIME
+ngày	N	B-NP	B-TIME
+1	M	B-NP	B-TIME
+tháng	N	B-NP	B-TIME
+7	M	B-NP	B-TIME
+năm	N	B-NP	B-TIME
+1950	M	B-NP	B-TIME
 ,	F	O	O
 đồng	N	B-NP	O
 dinar	N	B-NP	O
-Jordan	Np	B-NP	LOCATION
+Jordan	Np	B-NP	B-LOC
 (	F	O	O
 JOD	Ny	B-NP	O
 )	F	O	O
@@ -3668,8 +3668,8 @@ vương_quốc	N	B-NP	O
 đi	V	B-VP	O
 shopping	V	B-NP	O
 vào	E	B-PP	O
-tối	N	B-NP	TIME
-mai	M	B-NP	TIME
+tối	N	B-NP	B-TIME
+mai	M	B-NP	B-TIME
 
 Một	M	B-NP	O
 chuyến	N	B-NP	O
@@ -3725,9 +3725,9 @@ Hoàng_gia	N	B-NP	O
 của	E	B-PP	O
 George_I.	Np	B-NP	O
 
-Mexico	Np	B-NP	LOCATION
+Mexico	Np	B-NP	B-LOC
 và	C	O	O
-Hoa_Kỳ	Np	B-NP	LOCATION
+Hoa_Kỳ	Np	B-NP	B-LOC
 đã	R	O	O
 ký	V	B-VP	O
 Hiệp_ước	N	B-NP	O
@@ -3738,7 +3738,7 @@ Guadalupe_Hidalgo	Np	B-NP	O
 sửa	V	B-VP	O
 điện_thoại	V	B-NP	O
 vào	E	B-PP	O
-sáng_mai	M	B-NP	TIME
+sáng_mai	M	B-NP	B-TIME
 
 Bạn	N	B-NP	O
 không	R	O	O
@@ -3751,8 +3751,8 @@ khoáng_chất	N	B-NP	O
 được	V	O	O
 phát_hiện	V	B-NP	O
 vào	E	B-PP	O
-năm	N	B-NP	TIME
-1987	M	B-NP	TIME
+năm	N	B-NP	B-TIME
+1987	M	B-NP	B-TIME
 ?	F	O	O
 
 Tàu_điện	N	B-NP	O
@@ -3800,8 +3800,8 @@ có_thể	R	B-NP	O
 đi	V	B-VP	O
 ăn	V	B-VP	O
 vào	E	B-PP	O
-thứ	N	B-NP	TIME
-năm	M	B-NP	TIME
+thứ	N	B-NP	B-TIME
+năm	M	B-NP	B-TIME
 không	R	O	O
 ?	F	O	O
 
@@ -3825,12 +3825,12 @@ dầu_gội	N	B-NP	O
 
 Khi	N	B-NP	O
 ở	E	B-PP	O
-Canada	Np	B-NP	LOCATION
+Canada	Np	B-NP	B-LOC
 ,	F	O	O
 hãy	R	O	O
 đến	V	B-PP	O
-đập	V	B-VP	LOCATION
-Gardiner	Np	B-NP	LOCATION
+đập	V	B-VP	B-LOC
+Gardiner	Np	B-NP	B-LOC
 .	F	O	O
 
 Tikal	Np	B-NP	O
@@ -3839,9 +3839,9 @@ Tikal	Np	B-NP	O
 đỉnh_cao	N	B-NP	O
 quyền_lực	N	B-NP	O
 trong	E	B-PP	O
-thế_kỷ	N	B-NP	TIME
-thứ	N	B-NP	TIME
-tám	M	B-NP	TIME
+thế_kỷ	N	B-NP	B-TIME
+thứ	N	B-NP	B-TIME
+tám	M	B-NP	B-TIME
 .	F	O	O
 
 Dòng_chảy	N	B-NP	O
@@ -3850,12 +3850,12 @@ là	V	O	O
 một	M	B-NP	O
 phần	N	B-NP	O
 của	E	B-PP	O
-Gyp_Subpolar	Np	B-NP	LOCATION
-Bắc_Đại_Tây_Dương	Np	B-NP	LOCATION
+Gyp_Subpolar	Np	B-NP	B-LOC
+Bắc_Đại_Tây_Dương	Np	B-NP	B-LOC
 .	F	O	O
 
-Quần_đảo	N	B-NP	LOCATION
-Cayman	Np	B-NP	LOCATION
+Quần_đảo	N	B-NP	B-LOC
+Cayman	Np	B-NP	B-LOC
 được	V	O	O
 coi	V	B-VP	O
 là	C	O	O
@@ -3863,7 +3863,7 @@ một	M	B-NP	O
 phần	N	B-NP	O
 của	E	B-PP	O
 Khu_vực	N	B-NP	O
-Tây_Caribbean	Np	B-NP	LOCATION
+Tây_Caribbean	Np	B-NP	B-LOC
 địa_lý	V	B-NP	O
 cũng	R	O	O
 như	C	O	O
@@ -3876,16 +3876,16 @@ sẽ	R	O	O
 được	V	O	O
 tổ_chức	V	B-NP	O
 vào	E	B-PP	O
-ngày	N	B-NP	TIME
-30/12/2019	M	B-NP	TIME
+ngày	N	B-NP	B-TIME
+30/12/2019	M	B-NP	B-TIME
 tại	E	B-PP	O
-nhà_hàng	N	B-NP	LOCATION
-San_Hô	Np	B-NP	LOCATION
-Đỏ	Np	B-NP	LOCATION
+nhà_hàng	N	B-NP	B-LOC
+San_Hô	Np	B-NP	B-LOC
+Đỏ	Np	B-NP	B-LOC
 vào	E	B-PP	O
 lúc	N	B-NP	O
-18	M	B-NP	TIME
-giờ	Nu	B-NP	TIME
+18	M	B-NP	B-TIME
+giờ	Nu	B-NP	B-TIME
 
 Thật	R	O	O
 là	V	O	O
@@ -3973,7 +3973,7 @@ bạn	N	B-NP	O
 nghĩ	V	B-VP	O
 .	F	O	O
 
-Hồ_Waiau	V	B-NP	LOCATION
+Hồ_Waiau	V	B-NP	B-LOC
 được	R	O	O
 cho	V	B-PP	O
 là	V	O	O
@@ -3984,7 +3984,7 @@ hồ	N	B-NP	O
 cao	A	B-AP	O
 nhất	A	B-NP	O
 ở	E	B-PP	O
-Hoa_Kỳ	Np	B-NP	LOCATION
+Hoa_Kỳ	Np	B-NP	B-LOC
 .	F	O	O
 
 Cá	N	B-NP	O
@@ -4066,15 +4066,15 @@ với	E	B-PP	O
 chuyến	N	B-NP	O
 đi	V	B-VP	O
 đến	E	B-PP	O
-Bali	Np	B-NP	LOCATION
+Bali	Np	B-NP	B-LOC
 .	F	O	O
 
 tham_gia	M	B-NP	O
 câu	N	B-NP	O
 lạc_bộ	V	B-NP	O
 vào	E	B-PP	O
-tối	N	B-NP	TIME
-nay	P	B-NP	TIME
+tối	N	B-NP	B-TIME
+nay	P	B-NP	B-TIME
 
 Liên_minh	N	B-NP	O
 Viễn_thông	N	B-NP	O
@@ -4110,14 +4110,14 @@ thấy	V	B-VP	O
 nó	P	B-NP	O
 .	F	O	O
 
-Bưu_điện	N	B-NP	LOCATION
-Old_Fort	Np	B-NP	LOCATION
-Pierce	Np	B-NP	LOCATION
+Bưu_điện	N	B-NP	B-LOC
+Old_Fort	Np	B-NP	B-LOC
+Pierce	Np	B-NP	B-LOC
 được	V	O	O
 xây_dựng	V	B-NP	O
 vào	E	B-PP	O
-năm	N	B-NP	TIME
-1935	M	B-NP	TIME
+năm	N	B-NP	B-TIME
+1935	M	B-NP	B-TIME
 được	V	O	O
 thiết_kế	V	B-NP	O
 bởi	E	B-PP	O
@@ -4126,7 +4126,7 @@ Louis	Np	B-NP	O
 A._Simon	Np	B-NP	O
 .	F	O	O
 
-Hôm_nay	N	B-NP	TIME
+Hôm_nay	N	B-NP	B-TIME
 ,	F	O	O
 AAL	Ny	B-NP	O
 đã	R	O	O
@@ -4161,8 +4161,8 @@ Rina	Np	B-NP	O
 theo	V	B-VP	O
 học	V	B-VP	O
 tại	E	B-PP	O
-Đại_học	N	B-NP	LOCATION
-Kentucky	Np	B-NP	LOCATION
+Đại_học	N	B-NP	B-LOC
+Kentucky	Np	B-NP	B-LOC
 .	F	O	O
 
 Lắng_nghe	V	B-NP	O
@@ -4176,8 +4176,8 @@ tâm_trạng	N	B-NP	O
 cụ_thể	A	B-NP	O
 .	F	O	O
 
-Quần_đảo	N	B-NP	LOCATION
-Hawaii	Np	B-NP	LOCATION
+Quần_đảo	N	B-NP	B-LOC
+Hawaii	Np	B-NP	B-LOC
 là	V	O	O
 một	M	B-NP	O
 quần_đảo	N	B-NP	O
@@ -4191,21 +4191,21 @@ Nhóm	N	B-NP	O
 Đồ_án	N	B-NP	O
 3	M	B-NP	O
 :	F	O	O
-10	M	B-NP	TIME
-:	F	O	TIME
-00	M	B-NP	TIME
-sáng	N	B-NP	TIME
-thứ	N	B-NP	TIME
-6	M	B-NP	TIME
+10	M	B-NP	B-TIME
+:	F	O	B-TIME
+00	M	B-NP	B-TIME
+sáng	N	B-NP	B-TIME
+thứ	N	B-NP	B-TIME
+6	M	B-NP	B-TIME
 (	F	O	O
-5/4/2019	M	B-NP	TIME
+5/4/2019	M	B-NP	B-TIME
 )	F	O	O
 ,	F	O	O
 tại	E	B-PP	O
-phòng	N	B-NP	LOCATION
-803	M	B-NP	LOCATION
-thư_viện	N	B-NP	LOCATION
-TQB	Np	B-NP	LOCATION
+phòng	N	B-NP	B-LOC
+803	M	B-NP	B-LOC
+thư_viện	N	B-NP	B-LOC
+TQB	Np	B-NP	B-LOC
 
 Cô	N	B-NP	O
 ấy	P	B-NP	O
@@ -4227,10 +4227,10 @@ cô	N	B-NP	O
 ấy	P	B-NP	O
 đến	V	B-PP	O
 từ	E	B-PP	O
-8809	M	B-NP	LOCATION
-Illinois_St	Np	B-NP	LOCATION
-.	F	O	LOCATION
-Canandaigua	Np	B-NP	LOCATION
+8809	M	B-NP	B-LOC
+Illinois_St	Np	B-NP	B-LOC
+.	F	O	B-LOC
+Canandaigua	Np	B-NP	B-LOC
 ?	F	O	O
 
 Làm	V	B-VP	O
@@ -4269,8 +4269,8 @@ với	E	B-PP	O
 ông	Nc	B-NP	O
 Phạm_Nhật_Vượng	Np	B-NP	O
 vào	E	B-PP	O
-2	M	B-NP	TIME
-ngày_mai	N	B-NP	TIME
+2	M	B-NP	B-TIME
+ngày_mai	N	B-NP	B-TIME
 
 Thầy	N	B-NP	O
 có_thể	R	B-NP	O
@@ -4284,14 +4284,14 @@ sớm	A	B-AP	O
 hơn	A	B-AP	O
 vào	E	B-PP	O
 lúc	N	B-NP	O
-8	M	B-NP	TIME
-:	F	O	TIME
-30	M	B-NP	TIME
-sáng	N	B-NP	TIME
-thứ	N	B-NP	TIME
-3	M	B-NP	TIME
+8	M	B-NP	B-TIME
+:	F	O	B-TIME
+30	M	B-NP	B-TIME
+sáng	N	B-NP	B-TIME
+thứ	N	B-NP	B-TIME
+3	M	B-NP	B-TIME
 (	F	O	O
-18/6/2019	M	B-NP	TIME
+18/6/2019	M	B-NP	B-TIME
 )	F	O	O
 được	R	O	O
 không	R	O	O
@@ -4358,7 +4358,7 @@ biết	V	B-VP	O
 rằng	C	O	O
 vị_trí	N	B-NP	O
 của	E	B-PP	O
-Ceuta	Np	B-NP	LOCATION
+Ceuta	Np	B-NP	B-LOC
 đã	R	O	O
 biến	V	B-VP	O
 nó	P	B-NP	O
@@ -4444,9 +4444,9 @@ là	C	O	O
 cổ	N	B-NP	O
 áo	N	B-NP	O
 vào	E	B-PP	O
-đầu	N	B-NP	TIME
-thế_kỷ	N	B-NP	TIME
-18	M	B-NP	TIME
+đầu	N	B-NP	B-TIME
+thế_kỷ	N	B-NP	B-TIME
+18	M	B-NP	B-TIME
 .	F	O	O
 
 Bạn	N	B-NP	O
@@ -4455,8 +4455,8 @@ bao_giờ	P	B-NP	O
 nghe	V	B-VP	O
 nói	V	B-VP	O
 về	E	B-PP	O
-Đường_hầm	N	B-NP	LOCATION
-Victoria	Np	B-NP	LOCATION
+Đường_hầm	N	B-NP	B-LOC
+Victoria	Np	B-NP	B-LOC
 chưa	R	O	O
 ?	F	O	O
 
@@ -4467,8 +4467,8 @@ hạt	N	B-NP	O
 tiếp_tục	V	B-NP	O
 thay_thế	V	B-NP	O
 vào	E	B-PP	O
-năm	N	B-NP	TIME
-1974	M	B-NP	TIME
+năm	N	B-NP	B-TIME
+1974	M	B-NP	B-TIME
 .	F	O	O
 
 Tôi	P	B-NP	O
@@ -4501,8 +4501,8 @@ shopping	V	B-NP	O
 cùng	A	B-AP	O
 bạn	N	B-NP	O
 vào	E	B-PP	O
-tối	N	B-NP	TIME
-nay	P	B-NP	TIME
+tối	N	B-NP	B-TIME
+nay	P	B-NP	B-TIME
 
 Bạn	N	B-NP	O
 là	V	O	O
@@ -4513,16 +4513,16 @@ mươi	N	B-NP	O
 thất_bại	V	B-NP	O
 .	F	O	O
 
-Tòa	N	B-NP	LOCATION
-nhà	N	B-NP	LOCATION
-Liên_bang	N	B-NP	LOCATION
-Thẩm_phán	N	B-NP	LOCATION
-Isaac	Np	B-NP	LOCATION
-C._Parker	Np	B-NP	LOCATION
+Tòa	N	B-NP	B-LOC
+nhà	N	B-NP	B-LOC
+Liên_bang	N	B-NP	B-LOC
+Thẩm_phán	N	B-NP	B-LOC
+Isaac	Np	B-NP	B-LOC
+C._Parker	Np	B-NP	B-LOC
 có	V	B-VP	O
 từ	E	B-PP	O
-thế_kỷ	N	B-NP	TIME
-19	M	B-NP	TIME
+thế_kỷ	N	B-NP	B-TIME
+19	M	B-NP	B-TIME
 .	F	O	O
 
 Ông	N	B-NP	O
@@ -4554,9 +4554,9 @@ thấy	V	B-VP	O
 trận	N	B-NP	O
 động_đất	N	B-NP	O
 ở	E	B-PP	O
-Alabama	Np	B-NP	LOCATION
-năm	N	B-NP	TIME
-2003	M	B-NP	TIME
+Alabama	Np	B-NP	B-LOC
+năm	N	B-NP	B-TIME
+2003	M	B-NP	B-TIME
 đặc_biệt	A	B-NP	O
 cao	A	B-AP	O
 .	F	O	O
@@ -4585,13 +4585,13 @@ Sao_Hỏa	Np	B-NP	O
 
 đi	V	B-VP	O
 công_tác	V	B-NP	O
-Hưng_Yên	Np	B-NP	LOCATION
-ngày	N	B-NP	TIME
-28	M	B-NP	TIME
-tháng	N	B-NP	TIME
-2	M	B-NP	TIME
-năm	N	B-NP	TIME
-2019	M	B-NP	TIME
+Hưng_Yên	Np	B-NP	B-LOC
+ngày	N	B-NP	B-TIME
+28	M	B-NP	B-TIME
+tháng	N	B-NP	B-TIME
+2	M	B-NP	B-TIME
+năm	N	B-NP	B-TIME
+2019	M	B-NP	B-TIME
 
 Thành_công	N	B-NP	O
 của	E	B-PP	O
@@ -4615,21 +4615,21 @@ của	E	B-PP	O
 nam_giới	N	B-NP	O
 .	F	O	O
 
-Sông	N	B-NP	LOCATION
-Blackwater	Np	B-NP	LOCATION
+Sông	N	B-NP	B-LOC
+Blackwater	Np	B-NP	B-LOC
 chủ_yếu	A	B-NP	O
 nuôi	V	B-VP	O
 sống	V	B-VP	O
-Vịnh	Np	B-NP	LOCATION
-Đông	Np	B-NP	LOCATION
+Vịnh	Np	B-NP	B-LOC
+Đông	Np	B-NP	B-LOC
 .	F	O	O
 
 Đúng	A	B-AP	O
-9	M	B-NP	TIME
-giờ	Nu	B-NP	TIME
-00	M	B-NP	TIME
-ngày	N	B-NP	TIME
-26/04/2020	M	B-NP	TIME
+9	M	B-NP	B-TIME
+giờ	Nu	B-NP	B-TIME
+00	M	B-NP	B-TIME
+ngày	N	B-NP	B-TIME
+26/04/2020	M	B-NP	B-TIME
 mời	V	B-VP	O
 bạn	N	B-NP	O
 có_mặt	V	B-NP	O
@@ -4712,7 +4712,7 @@ Apology	Np	B-NP	O
 Cuộc	N	B-NP	O
 thảm_sát	V	B-NP	O
 ở	E	B-PP	O
-Granada	Np	B-NP	LOCATION
+Granada	Np	B-NP	B-LOC
 rõ_ràng	A	B-NP	O
 đã	R	O	O
 được	V	O	O
@@ -4732,11 +4732,11 @@ sự_kiện	N	B-NP	O
 tham_gia	N	B-NP	O
 hội_thảo	V	B-NP	O
 lúc	N	B-NP	O
-8	M	B-NP	TIME
-giờ	Nu	B-NP	TIME
-sáng	N	B-NP	TIME
-thứ	N	B-NP	TIME
-hai	M	B-NP	TIME
+8	M	B-NP	B-TIME
+giờ	Nu	B-NP	B-TIME
+sáng	N	B-NP	B-TIME
+thứ	N	B-NP	B-TIME
+hai	M	B-NP	B-TIME
 
 World	N	B-NP	O
 toilet	N	B-NP	O
@@ -4745,7 +4745,7 @@ Summit	Np	B-NP	O
 amp	N	B-NP	O
 ;	F	O	O
 Expo	Np	B-NP	O
-2016	M	B-NP	TIME
+2016	M	B-NP	B-TIME
 có	V	B-VP	O
 600	M	B-NP	O
 đại_biểu	N	B-NP	O
@@ -4758,18 +4758,18 @@ trên	E	B-PP	O
 thế_giới	N	B-NP	O
 .	F	O	O
 
-Opéra	Np	B-NP	LOCATION
-national	V	B-NP	LOCATION
-de	N	B-NP	LOCATION
-Lorraine	Np	B-NP	LOCATION
+Opéra	Np	B-NP	B-LOC
+national	V	B-NP	B-LOC
+de	N	B-NP	B-LOC
+Lorraine	Np	B-NP	B-LOC
 đã	R	O	O
 trải	V	B-VP	O
 qua	V	B-VP	O
 sự	Nc	B-NP	O
 phục_hồi	V	B-NP	O
 vào	E	B-PP	O
-năm	N	B-NP	TIME
-1994	M	B-NP	TIME
+năm	N	B-NP	B-TIME
+1994	M	B-NP	B-TIME
 .	F	O	O
 
 Các	L	B-NP	O
@@ -4784,26 +4784,26 @@ mỗi	M	B-NP	O
 giây	N	B-NP	O
 .	F	O	O
 
-Sáng	N	B-NP	TIME
-thứ	N	B-NP	TIME
-4	M	B-NP	TIME
-tuần	N	B-NP	TIME
-sau	A	B-NP	TIME
+Sáng	N	B-NP	B-TIME
+thứ	N	B-NP	B-TIME
+4	M	B-NP	B-TIME
+tuần	N	B-NP	B-TIME
+sau	A	B-NP	B-TIME
 ,	F	O	O
-9h	M	B-NP	TIME
+9h	M	B-NP	B-TIME
 các	L	B-NP	O
 bạn	N	B-NP	O
 lên	V	B-VP	O
-B1	Ny	B-NP	LOCATION
-702	M	B-NP	LOCATION
+B1	Ny	B-NP	B-LOC
+702	M	B-NP	B-LOC
 gặp	V	B-VP	O
 nhé	T	O	O
 .	F	O	O
 
 Lúc	N	B-NP	O
-4	M	B-NP	TIME
-giờ	Nu	B-NP	TIME
-sáng	N	B-NP	TIME
+4	M	B-NP	B-TIME
+giờ	Nu	B-NP	B-TIME
+sáng	N	B-NP	B-TIME
 ,	F	O	O
 tôi	P	B-NP	O
 muốn	V	B-VP	O
@@ -4851,10 +4851,10 @@ sự_kiện	N	B-NP	O
 Gặp	V	B-VP	O
 đối_tác	N	B-NP	O
 Lúc	N	B-NP	O
-10	M	B-NP	TIME
-:	CH	O	TIME
-15	M	B-NP	TIME
-sáng_mai	N	B-NP	TIME
+10	M	B-NP	B-TIME
+:	CH	O	B-TIME
+15	M	B-NP	B-TIME
+sáng_mai	N	B-NP	B-TIME
 
 Billie_Holiday	Np	B-NP	O
 đã	R	O	O
@@ -4870,8 +4870,8 @@ chạy	V	B-VP	O
 ghi	V	B-VP	O
 bởi	E	B-PP	O
 White_Sox	Np	B-NP	O
-tối	N	B-NP	TIME
-chủ_nhật	N	B-NP	TIME
+tối	N	B-NP	B-TIME
+chủ_nhật	N	B-NP	B-TIME
 .	F	O	O
 
 Giải_thưởng	N	B-NP	O
@@ -4882,7 +4882,7 @@ Nghệ_thuật	N	B-NP	O
 diễn	V	B-VP	O
 ra	R	B-VP	O
 tại	E	B-PP	O
-Argentina	Np	B-NP	LOCATION
+Argentina	Np	B-NP	B-LOC
 .	F	O	O
 
 Best_Buy_Co_Inc	Np	B-NP	O
@@ -4891,10 +4891,10 @@ hiện	N	B-NP	O
 gia_tăng	V	B-NP	O
 kể	V	B-VP	O
 từ	E	B-PP	O
-thứ	N	B-NP	TIME
-Hai	M	B-NP	TIME
+thứ	N	B-NP	B-TIME
+Hai	M	B-NP	B-TIME
 lúc	N	B-NP	O
-13/11	M	B-NP	TIME
+13/11	M	B-NP	B-TIME
 .	F	O	O
 
 Gia_đình	N	B-NP	O
@@ -4911,12 +4911,12 @@ sậy	N	B-NP	O
 Thông_qua	V	B-NP	O
 nhất_trí	V	B-NP	O
 vào	E	B-PP	O
-ngày	N	B-NP	TIME
-27	M	B-NP	TIME
-tháng	N	B-NP	TIME
-3	M	B-NP	TIME
-năm	N	B-NP	TIME
-1997	M	B-NP	TIME
+ngày	N	B-NP	B-TIME
+27	M	B-NP	B-TIME
+tháng	N	B-NP	B-TIME
+3	M	B-NP	B-TIME
+năm	N	B-NP	B-TIME
+1997	M	B-NP	B-TIME
 ,	F	O	O
 Nghị_quyết	N	B-NP	O
 1100	M	B-NP	O
@@ -4926,15 +4926,15 @@ Bảo_an	N	B-NP	O
 Liên_Hợp_Quốc	Np	B-NP	O
 là	V	O	O
 về	E	B-PP	O
-Liberia	Np	B-NP	LOCATION
+Liberia	Np	B-NP	B-LOC
 .	F	O	O
 
 đi	V	B-VP	O
 công_tác	V	B-NP	O
 vào	E	B-PP	O
-ngày_mai	M	B-NP	TIME
+ngày_mai	M	B-NP	B-TIME
 
-Dominica	Np	B-NP	LOCATION
+Dominica	Np	B-NP	B-LOC
 lấy	V	B-VP	O
 tên	N	B-NP	O
 từ	E	B-PP	O
@@ -4959,11 +4959,11 @@ sự_kiện	N	B-NP	O
 tham_gia	N	B-NP	O
 hội_thảo	V	B-NP	O
 lúc	N	B-NP	O
-8	M	B-NP	TIME
-giờ	Nu	B-NP	TIME
-sáng	N	B-NP	TIME
-thứ	N	B-NP	TIME
-hai	M	B-NP	TIME
+8	M	B-NP	B-TIME
+giờ	Nu	B-NP	B-TIME
+sáng	N	B-NP	B-TIME
+thứ	N	B-NP	B-TIME
+hai	M	B-NP	B-TIME
 
 Người	N	B-NP	O
 bạn	N	B-NP	O
@@ -4980,7 +4980,7 @@ có	V	B-VP	O
 bằng_cấp	N	B-NP	O
 cao	A	B-AP	O
 cho	E	B-PP	O
-Papua_New_Guinea	Np	B-NP	LOCATION
+Papua_New_Guinea	Np	B-NP	B-LOC
 .	F	O	O
 
 Mars	Np	B-NP	O
@@ -4996,15 +4996,15 @@ với	E	B-PP	O
 Trái_đất	N	B-NP	O
 .	F	O	O
 
-Crownlands	Np	B-NP	LOCATION
+Crownlands	Np	B-NP	B-LOC
 tạo	V	B-VP	O
 thành	V	B-VP	O
 toàn_bộ	N	B-NP	O
 bờ	N	B-NP	O
 biển	N	B-NP	O
 của	E	B-PP	O
-Vịnh	Np	B-NP	LOCATION
-Blackwater	Np	B-NP	LOCATION
+Vịnh	Np	B-NP	B-LOC
+Blackwater	Np	B-NP	B-LOC
 .	F	O	O
 
 ghi_chú	N	B-NP	O
@@ -5013,10 +5013,10 @@ tôi	P	B-NP	O
 nấu_ăn	V	B-NP	O
 sáng	N	B-NP	O
 lúc	N	B-NP	O
-7	M	B-NP	TIME
-giờ	Nu	B-NP	TIME
-sáng	N	B-NP	TIME
-ngày_mai	M	B-NP	TIME
+7	M	B-NP	B-TIME
+giờ	Nu	B-NP	B-TIME
+sáng	N	B-NP	B-TIME
+ngày_mai	M	B-NP	B-TIME
 
 Chủ_nghĩa	N	B-NP	O
 chống	V	B-VP	O
@@ -5050,15 +5050,15 @@ lẩu	N	B-NP	O
 cùng	A	B-AP	O
 Hiền	Np	B-NP	O
 lúc	N	B-NP	O
-19	M	B-NP	TIME
-:	CH	O	TIME
-15	M	B-NP	TIME
-ngày	N	B-NP	TIME
-16	M	B-NP	TIME
-tháng	N	B-NP	TIME
-1	M	B-NP	TIME
-năm	N	B-NP	TIME
-2019	M	B-NP	TIME
+19	M	B-NP	B-TIME
+:	CH	O	B-TIME
+15	M	B-NP	B-TIME
+ngày	N	B-NP	B-TIME
+16	M	B-NP	B-TIME
+tháng	N	B-NP	B-TIME
+1	M	B-NP	B-TIME
+năm	N	B-NP	B-TIME
+2019	M	B-NP	B-TIME
 
 Nếu	C	O	O
 bạn	N	B-NP	O
@@ -5072,9 +5072,9 @@ gọn_gàng	A	B-NP	O
 hãy	R	O	O
 ghé	V	B-VP	O
 thăm	V	B-VP	O
-Hội_trường	N	B-NP	LOCATION
-Tin_Lành	Np	B-NP	LOCATION
-Lane	Np	B-NP	LOCATION
+Hội_trường	N	B-NP	B-LOC
+Tin_Lành	Np	B-NP	B-LOC
+Lane	Np	B-NP	B-LOC
 .	F	O	O
 
 Một	M	B-NP	O
@@ -5111,12 +5111,12 @@ cũ	A	B-AP	O
 chè	N	B-NP	O
 cùng	A	B-AP	O
 Thảo	Np	B-NP	O
-chiều	V	B-NP	TIME
-mai	V	B-NP	TIME
+chiều	V	B-NP	B-TIME
+mai	V	B-NP	B-TIME
 lúc	N	B-NP	O
-14	M	B-NP	TIME
-:	CH	O	TIME
-50	M	B-NP	TIME
+14	M	B-NP	B-TIME
+:	CH	O	B-TIME
+50	M	B-NP	B-TIME
 
 Tham_gia	V	B-NP	O
 vào	E	B-PP	O
@@ -5213,10 +5213,10 @@ anh	N	B-NP	O
 ta	P	B-NP	O
 trong	E	B-PP	O
 học_kỳ	N	B-NP	O
-mùa	Nc	B-NP	TIME
-thu	N	B-VP	TIME
-năm	N	B-NP	TIME
-1956	M	B-NP	TIME
+mùa	Nc	B-NP	B-TIME
+thu	N	B-VP	B-TIME
+năm	N	B-NP	B-TIME
+1956	M	B-NP	B-TIME
 .	F	O	O
 
 Một	M	B-NP	O
@@ -5227,13 +5227,13 @@ rộng	A	B-AP	O
 mẫu	N	B-NP	O
 Anh	N	B-NP	O
 ở	E	B-PP	O
-California	Np	B-NP	LOCATION
+California	Np	B-NP	B-LOC
 được	R	O	O
 gọi	V	B-VP	O
 là	C	O	O
 Đại_Mỹ	Np	B-NP	O
 của	E	B-PP	O
-California	Np	B-NP	LOCATION
+California	Np	B-NP	B-LOC
 .	F	O	O
 
 Một	M	B-NP	O
@@ -5243,11 +5243,11 @@ lớn	A	B-AP	O
 và	C	O	O
 đông_đúc	A	B-NP	O
 là	V	O	O
-Sân_bay	N	B-NP	LOCATION
-quốc_tế	N	B-NP	LOCATION
-Tambo	Np	B-NP	LOCATION
+Sân_bay	N	B-NP	B-LOC
+quốc_tế	N	B-NP	B-LOC
+Tambo	Np	B-NP	B-LOC
 ở	E	B-PP	O
-Châu_Phi	Np	B-NP	LOCATION
+Châu_Phi	Np	B-NP	B-LOC
 .	F	O	O
 
 Theresa	Np	B-NP	O
@@ -5277,18 +5277,18 @@ Trong	E	B-PP	O
 trận	N	B-NP	O
 động	V	B-NP	O
 đất	N	B-NP	O
-ngày	N	B-NP	TIME
-10	M	B-NP	TIME
-tháng	N	B-NP	TIME
-9	M	B-NP	TIME
-năm	N	B-NP	TIME
-1899	M	B-NP	TIME
+ngày	N	B-NP	B-TIME
+10	M	B-NP	B-TIME
+tháng	N	B-NP	B-TIME
+9	M	B-NP	B-TIME
+năm	N	B-NP	B-TIME
+1899	M	B-NP	B-TIME
 ,	F	O	O
 một	M	B-NP	O
 phần	N	B-NP	O
 của	E	B-PP	O
-Vịnh	Np	B-NP	LOCATION
-Disenchantment	Np	B-NP	LOCATION
+Vịnh	Np	B-NP	B-LOC
+Disenchantment	Np	B-NP	B-LOC
 đã	R	O	O
 được	V	O	O
 nâng	V	B-VP	O
@@ -5298,25 +5298,25 @@ lên	V	B-VP	O
 Địa_điểm	N	B-NP	O
 thi_tuyển	V	B-NP	O
 :	F	O	O
-Phòng	N	B-NP	LOCATION
-506	M	B-NP	LOCATION
+Phòng	N	B-NP	B-LOC
+506	M	B-NP	B-LOC
 ,	F	O	O
-Tòa	Np	B-NP	LOCATION
-nhà	N	B-NP	LOCATION
-B10C	Np	B-NP	LOCATION
+Tòa	Np	B-NP	B-LOC
+nhà	N	B-NP	B-LOC
+B10C	Np	B-NP	B-LOC
 ,	F	O	O
-Khu_đô_thị	N	B-NP	LOCATION
-Nam_Trung_Yên	Np	B-NP	LOCATION
+Khu_đô_thị	N	B-NP	B-LOC
+Nam_Trung_Yên	Np	B-NP	B-LOC
 ,	F	O	O
-Nguyễn_Chánh	Np	B-NP	LOCATION
+Nguyễn_Chánh	Np	B-NP	B-LOC
 ,	F	O	O
-Phường	Np	B-NP	LOCATION
-Yên_Hoà	Np	B-NP	LOCATION
+Phường	Np	B-NP	B-LOC
+Yên_Hoà	Np	B-NP	B-LOC
 ,	F	O	O
-Quận	Np	B-NP	LOCATION
-Cầu_Giấy	Np	B-NP	LOCATION
+Quận	Np	B-NP	B-LOC
+Cầu_Giấy	Np	B-NP	B-LOC
 ,	F	O	O
-Hà_Nội	Np	B-NP	LOCATION
+Hà_Nội	Np	B-NP	B-LOC
 .	F	O	O
 
 Một	M	B-NP	O
@@ -5345,7 +5345,7 @@ Có	V	B-VP	O
 một	M	B-NP	O
 nơi	N	B-NP	O
 ở	E	B-PP	O
-Nga	Np	B-NP	LOCATION
+Nga	Np	B-NP	B-LOC
 và	C	O	O
 bạn	N	B-NP	O
 theo	V	B-VP	O
@@ -5388,9 +5388,9 @@ quá	R	O	O
 nhiều	A	B-AP	O
 trong	E	B-PP	O
 học_kỳ	N	B-NP	O
-mùa	Nc	B-NP	TIME
-xuân	N	B-NP	TIME
-1930	M	B-NP	TIME
+mùa	Nc	B-NP	B-TIME
+xuân	N	B-NP	B-TIME
+1930	M	B-NP	B-TIME
 .	F	O	O
 
 General_Mills	N	B-NP	O
@@ -5418,11 +5418,11 @@ là	C	O	O
 
 thêm	V	B-VP	O
 Nhắc_nhở	Np	B-NP	O
-ngày	N	B-NP	TIME
-mùng	M	B-NP	TIME
-9	M	B-NP	TIME
-tháng	N	B-NP	TIME
-3	M	B-NP	TIME
+ngày	N	B-NP	B-TIME
+mùng	M	B-NP	B-TIME
+9	M	B-NP	B-TIME
+tháng	N	B-NP	B-TIME
+3	M	B-NP	B-TIME
 chuẩn_bị	N	B-NP	O
 cho	E	B-PP	O
 sự_kiện	N	B-NP	O
@@ -5436,12 +5436,12 @@ tham_dự	V	B-NP	O
 tiệc	N	B-NP	O
 công_ty	V	B-NP	O
 vào	E	B-PP	O
-tối	N	B-NP	TIME
-mai	M	B-NP	TIME
+tối	N	B-NP	B-TIME
+mai	M	B-NP	B-TIME
 
-Tòa_án	N	B-NP	LOCATION
-quận	N	B-NP	LOCATION
-Fountain	Np	B-NP	LOCATION
+Tòa_án	N	B-NP	B-LOC
+quận	N	B-NP	B-LOC
+Fountain	Np	B-NP	B-LOC
 đầu_tiên	A	B-NP	O
 là	V	O	O
 một	M	B-NP	O
@@ -5467,7 +5467,7 @@ của	E	B-PP	O
 Hoàng_gia	N	B-NP	O
 Anh	Np	B-NP	O
 ở	E	B-PP	O
-Lancaster	Np	B-NP	LOCATION
+Lancaster	Np	B-NP	B-LOC
 .	F	O	O
 
 Kyla	Np	B-NP	O
@@ -5500,8 +5500,8 @@ nguyên_liệu	N	B-NP	O
 tái_tạo	N	B-NP	O
 .	F	O	O
 
-Texas	Np	B-NP	LOCATION
--	F	O	LOCATION
+Texas	Np	B-NP	B-LOC
+-	F	O	B-LOC
 Nội_địa	N	B-NP	O
 là	V	O	O
 một	M	B-NP	O
@@ -5510,23 +5510,23 @@ khu_vực	N	B-NP	O
 
 Địa_điểm	N	B-NP	O
 :	F	O	O
-Phòng	N	B-NP	LOCATION
-702	M	B-NP	LOCATION
-Thư_viện	N	B-NP	LOCATION
-Tạ_Quang_Bửu	Np	B-NP	LOCATION
+Phòng	N	B-NP	B-LOC
+702	M	B-NP	B-LOC
+Thư_viện	N	B-NP	B-LOC
+Tạ_Quang_Bửu	Np	B-NP	B-LOC
 -	F	O	O
-Đại_học	N	B-NP	LOCATION
-Bách_Khoa	Np	B-NP	LOCATION
-Hà_Nội	Np	B-NP	LOCATION
+Đại_học	N	B-NP	B-LOC
+Bách_Khoa	Np	B-NP	B-LOC
+Hà_Nội	Np	B-NP	B-LOC
 ,	F	O	O
-Số	N	B-NP	LOCATION
-1	M	B-NP	LOCATION
-Đại_Cồ_Việt	Np	B-NP	LOCATION
+Số	N	B-NP	B-LOC
+1	M	B-NP	B-LOC
+Đại_Cồ_Việt	Np	B-NP	B-LOC
 ,	F	O	O
-Q.	Ny	B-NP	LOCATION
-Hai_Bà_Trưng	Np	B-NP	LOCATION
+Q.	Ny	B-NP	B-LOC
+Hai_Bà_Trưng	Np	B-NP	B-LOC
 ,	F	O	O
-Hà_Nội	Np	B-NP	LOCATION
+Hà_Nội	Np	B-NP	B-LOC
 
 Một_hồ	V	B-NP	O
 nước_ngọt	N	B-NP	O
@@ -5535,7 +5535,7 @@ tự_nhiên	A	B-NP	O
 đặt	V	B-VP	O
 tên	N	B-NP	O
 là	C	O	O
-Hồ_Mweru	Np	B-NP	LOCATION
+Hồ_Mweru	Np	B-NP	B-LOC
 .	F	O	O
 
 Kali	Np	B-NP	O
@@ -5567,20 +5567,20 @@ thấy	V	B-VP	O
 tất_cả	P	B-NP	O
 .	F	O	O
 
-Cảng	N	B-NP	LOCATION
-Savannah	Np	B-NP	LOCATION
+Cảng	N	B-NP	B-LOC
+Savannah	Np	B-NP	B-LOC
 là	V	O	O
 một	M	B-NP	O
 cảng	N	B-NP	O
 biển	N	B-NP	O
 lớn	A	B-AP	O
 của	E	B-PP	O
-Hoa_Kỳ	Np	B-NP	LOCATION
+Hoa_Kỳ	Np	B-NP	B-LOC
 nằm	V	B-VP	O
 ở	E	B-PP	O
-Savannah	Np	B-NP	LOCATION
+Savannah	Np	B-NP	B-LOC
 ,	F	O	O
-Georgia	Np	B-NP	LOCATION
+Georgia	Np	B-NP	B-LOC
 .	F	O	O
 
 Họ	P	B-NP	O
@@ -5604,9 +5604,9 @@ hay	C	O	O
 đợi	V	B-VP	O
 đến	E	B-PP	O
 học_kỳ	N	B-NP	O
-mùa	Nc	B-NP	TIME
-thu	N	B-VP	TIME
-1980	M	B-NP	TIME
+mùa	Nc	B-NP	B-TIME
+thu	N	B-VP	B-TIME
+1980	M	B-NP	B-TIME
 để	E	B-PP	O
 bắt_đầu	V	B-NP	O
 mới	R	O	O
@@ -5624,7 +5624,7 @@ là	V	O	O
 những	L	B-NP	O
 người	N	B-NP	O
 tốt_nghiệp	V	B-NP	O
-McGill	N	B-NP	LOCATION
+McGill	N	B-NP	B-LOC
 .	F	O	O
 
 Tôi	P	B-NP	O
@@ -5710,7 +5710,7 @@ Vào	E	B-VP	O
 thời_kỳ	N	B-NP	O
 đỉnh_cao	N	B-NP	O
 ,	F	O	O
-Bagan	Np	B-NP	LOCATION
+Bagan	Np	B-NP	B-LOC
 chứa	V	B-VP	O
 hơn	A	B-AP	O
 10.000	M	B-NP	O
@@ -5721,10 +5721,10 @@ ngôi	Nc	B-NP	O
 Trận	N	B-NP	O
 động_đất	N	B-NP	O
 ở	E	B-PP	O
-Ấn_Độ	Np	B-NP	LOCATION
-Dương	Np	B-NP	LOCATION
-năm	N	B-NP	TIME
-2012	M	B-NP	TIME
+Ấn_Độ	Np	B-NP	B-LOC
+Dương	Np	B-NP	B-LOC
+năm	N	B-NP	B-TIME
+2012	M	B-NP	B-TIME
 đã	R	O	O
 có	V	B-VP	O
 những	L	B-NP	O
@@ -5734,7 +5734,7 @@ cảnh_báo	N	B-NP	O
 ra	R	B-VP	O
 trên	E	B-PP	O
 khắp	Nc	B-AP	O
-Ấn_Độ_Dương	Np	B-NP	LOCATION
+Ấn_Độ_Dương	Np	B-NP	B-LOC
 ,	F	O	O
 tuy_nhiên	C	B-NP	O
 ,	F	O	O
@@ -5856,15 +5856,15 @@ nghĩ	V	B-VP	O
 bạn	N	B-NP	O
 nói	V	B-VP	O
 rằng	C	O	O
-Nunavut	Np	B-NP	LOCATION
+Nunavut	Np	B-NP	B-LOC
 bao_gồm	V	B-NP	O
 một	M	B-NP	O
 phần	N	B-NP	O
 chính	A	O	O
 của	E	B-PP	O
-miền	N	B-NP	LOCATION
-bắc	N	B-NP	LOCATION
-Canada	Np	B-NP	LOCATION
+miền	N	B-NP	B-LOC
+bắc	N	B-NP	B-LOC
+Canada	Np	B-NP	B-LOC
 .	F	O	O
 
 Nếu	C	O	O
@@ -5925,28 +5925,28 @@ bạn	N	B-NP	O
 
 Địa_điểm	N	B-NP	O
 :	F	O	O
-Trung_tâm	N	B-NP	LOCATION
-Hội_Nghị	Np	B-NP	LOCATION
-Adora	Np	B-NP	LOCATION
-421	M	B-NP	LOCATION
--	F	O	LOCATION
-423	M	B-NP	LOCATION
-Ngô_Gia_Tự	Np	B-NP	LOCATION
+Trung_tâm	N	B-NP	B-LOC
+Hội_Nghị	Np	B-NP	B-LOC
+Adora	Np	B-NP	B-LOC
+421	M	B-NP	B-LOC
+-	F	O	B-LOC
+423	M	B-NP	B-LOC
+Ngô_Gia_Tự	Np	B-NP	B-LOC
 ,	F	O	O
-Phường	N	B-NP	LOCATION
-9	M	B-NP	LOCATION
+Phường	N	B-NP	B-LOC
+9	M	B-NP	B-LOC
 ,	F	O	O
-Quận	Np	B-NP	LOCATION
-5	M	B-NP	LOCATION
+Quận	Np	B-NP	B-LOC
+5	M	B-NP	B-LOC
 ,	F	O	O
-Tp.	Np	B-NP	LOCATION
-HCM.	Np	B-NP	LOCATION
+Tp.	Np	B-NP	B-LOC
+HCM.	Np	B-NP	B-LOC
 
 Vào	E	B-VP	O
-cuối	N	B-NP	TIME
-những	L	B-NP	TIME
-năm	N	B-NP	TIME
-1980	M	B-NP	TIME
+cuối	N	B-NP	B-TIME
+những	L	B-NP	B-TIME
+năm	N	B-NP	B-TIME
+1980	M	B-NP	B-TIME
 ,	F	O	O
 Nirvana	Np	B-NP	O
 tự	P	B-NP	O
@@ -5986,8 +5986,8 @@ dựa	V	B-VP	O
 trên	E	B-PP	O
 đăng_ký	V	B-NP	O
 vào	E	B-PP	O
-năm	N	B-NP	TIME
-2012	M	B-NP	TIME
+năm	N	B-NP	B-TIME
+2012	M	B-NP	B-TIME
 ,	F	O	O
 ADBE	Ny	B-NP	O
 đã	R	O	O
@@ -6015,8 +6015,8 @@ biển	N	B-NP	O
 phía	N	B-NP	O
 tây	N	B-NP	O
 của	E	B-PP	O
-Đảo	Np	B-NP	LOCATION
-King_William	Np	B-NP	LOCATION
+Đảo	Np	B-NP	B-LOC
+King_William	Np	B-NP	B-LOC
 .	F	O	O
 
 Bạn	N	B-NP	O
@@ -6042,8 +6042,8 @@ rất	R	O	O
 thích	V	B-VP	O
 đến	V	B-PP	O
 thăm	V	B-VP	O
-ga	N	B-NP	LOCATION
-Porto_Amboim	Np	B-NP	LOCATION
+ga	N	B-NP	B-LOC
+Porto_Amboim	Np	B-NP	B-LOC
 .	F	O	O
 
 Anh	N	B-NP	O
@@ -6099,8 +6099,8 @@ dã_ngoại	V	B-NP	O
 cùng	A	B-AP	O
 bạn_bè	V	B-NP	O
 vào	E	B-PP	O
-cuối	N	B-NP	TIME
-tuần	N	B-NP	TIME
+cuối	N	B-NP	B-TIME
+tuần	N	B-NP	B-TIME
 
 The_Stand	N	B-NP	O
 của	E	B-PP	O
@@ -6111,13 +6111,13 @@ câu_chuyện	N	B-NP	O
 tuyệt_vời	A	B-NP	O
 .	F	O	O
 
-Công_viên	N	B-NP	LOCATION
-quốc_gia	N	B-NP	LOCATION
-Mammoth	Np	B-NP	LOCATION
-Cave	Np	B-NP	LOCATION
+Công_viên	N	B-NP	B-LOC
+quốc_gia	N	B-NP	B-LOC
+Mammoth	Np	B-NP	B-LOC
+Cave	Np	B-NP	B-LOC
 nằm	V	B-VP	O
 ở	E	B-PP	O
-Kentucky	Np	B-NP	LOCATION
+Kentucky	Np	B-NP	B-LOC
 .	F	O	O
 
 Fianna_Fáil	Np	B-NP	O
@@ -6130,7 +6130,7 @@ trong	E	B-PP	O
 hai	M	B-NP	O
 bên	N	B-NP	O
 của	E	B-PP	O
-Ireland	Np	B-NP	LOCATION
+Ireland	Np	B-NP	B-LOC
 .	F	O	O
 
 thêm	V	B-VP	O
@@ -6138,12 +6138,12 @@ nhắc_nhở	N	B-NP	O
 tham_dự	V	B-NP	O
 tiệc	N	B-NP	O
 công_ty	V	B-NP	O
-ngày	N	B-NP	TIME
-25	M	B-NP	TIME
-tháng	N	B-NP	TIME
-5	M	B-NP	TIME
-năm	N	B-NP	TIME
-2019	M	B-NP	TIME
+ngày	N	B-NP	B-TIME
+25	M	B-NP	B-TIME
+tháng	N	B-NP	B-TIME
+5	M	B-NP	B-TIME
+năm	N	B-NP	B-TIME
+2019	M	B-NP	B-TIME
 
 7	M	B-NP	O
 cầu_thủ	N	B-NP	O
@@ -6172,14 +6172,14 @@ văn_nghệ	N	B-NP	O
 mới	R	O	O
 trẻ	A	B-AP	O
 đặc_sắc	A	B-NP	O
-năm	N	B-NP	TIME
-2019	M	B-NP	TIME
+năm	N	B-NP	B-TIME
+2019	M	B-NP	B-TIME
 
 Được	V	B-VP	O
 thành_lập	V	B-NP	O
 vào	E	B-PP	O
-năm	N	B-NP	TIME
-1956	M	B-NP	TIME
+năm	N	B-NP	B-TIME
+1956	M	B-NP	B-TIME
 ,	F	O	O
 Giải_thưởng	N	B-NP	O
 âm_nhạc	N	B-NP	O
@@ -6197,10 +6197,10 @@ bổ_nhiệm	V	B-NP	O
 làm	V	B-VP	O
 giảng_viên	N	B-NP	O
 tại	E	B-PP	O
-Đại_học	N	B-NP	LOCATION
-Wales	Np	B-NP	LOCATION
-năm	N	B-NP	TIME
-1948	M	B-NP	TIME
+Đại_học	N	B-NP	B-LOC
+Wales	Np	B-NP	B-LOC
+năm	N	B-NP	B-TIME
+1948	M	B-NP	B-TIME
 .	F	O	O
 
 Sẽ	R	O	O
@@ -6216,9 +6216,9 @@ Aconites	Np	B-NP	O
 .	F	O	O
 
 Học_kỳ	N	B-NP	O
-mùa	Nc	B-NP	TIME
-thu	N	B-VP	TIME
-1936	M	B-NP	TIME
+mùa	Nc	B-NP	B-TIME
+thu	N	B-VP	B-TIME
+1936	M	B-NP	B-TIME
 đã	R	O	O
 bị	V	B-VP	O
 lãng_quên	V	B-NP	O
@@ -6248,18 +6248,18 @@ và	C	O	O
 ẩm	A	B-NP	O
 .	F	O	O
 
-Bảo_tàng	N	B-NP	LOCATION
-Fowler	Np	B-NP	LOCATION
+Bảo_tàng	N	B-NP	B-LOC
+Fowler	Np	B-NP	B-LOC
 tại	E	B-PP	O
-UCLA	Ny	B-NP	LOCATION
+UCLA	Ny	B-NP	B-LOC
 là	V	O	O
 một	M	B-NP	O
 bảo_tàng	N	B-NP	O
 trong	E	B-PP	O
 khuôn_viên	N	B-NP	O
 của	E	B-PP	O
-Đại_học	N	B-NP	LOCATION
-California	Np	B-NP	LOCATION
+Đại_học	N	B-NP	B-LOC
+California	Np	B-NP	B-LOC
 .	F	O	O
 
 14	M	B-NP	O
@@ -6280,7 +6280,7 @@ Trung_cổ	N	B-NP	O
 .	F	O	O
 
 Văn_hóa	N	B-NP	O
-Trung_Quốc	Np	B-NP	LOCATION
+Trung_Quốc	Np	B-NP	B-LOC
 đã	R	O	O
 được	V	O	O
 sử_dụng	V	B-NP	O
@@ -6319,22 +6319,22 @@ thanh_niên	N	B-NP	O
 
 Địa_điểm	N	B-NP	O
 :	F	O	O
-Trung_Tâm	N	B-NP	LOCATION
-Tin_Học	Np	B-NP	LOCATION
-VnPro	V	B-NP	LOCATION
+Trung_Tâm	N	B-NP	B-LOC
+Tin_Học	Np	B-NP	B-LOC
+VnPro	V	B-NP	B-LOC
 –	N	O	O
-149	M	B-NP	LOCATION
-/	F	O	LOCATION
-1D	Ny	B-NP	LOCATION
-Ung_Văn_Khiêm	Np	B-NP	LOCATION
+149	M	B-NP	B-LOC
+/	F	O	B-LOC
+1D	Ny	B-NP	B-LOC
+Ung_Văn_Khiêm	Np	B-NP	B-LOC
 ,	F	O	O
-P.	Ny	B-NP	LOCATION
-25	M	B-NP	LOCATION
+P.	Ny	B-NP	B-LOC
+25	M	B-NP	B-LOC
 ,	F	O	O
-Q.	Ny	B-NP	LOCATION
-BT	Ny	B-NP	LOCATION
+Q.	Ny	B-NP	B-LOC
+BT	Ny	B-NP	B-LOC
 ,	F	O	O
-TpHCM	N	B-NP	LOCATION
+TpHCM	N	B-NP	B-LOC
 
 Phục_vụ	V	B-NP	O
 với	E	B-PP	O
@@ -6374,21 +6374,21 @@ Nhóm	N	B-NP	O
 Đồ_án	N	B-NP	O
 3	M	B-NP	O
 :	F	O	O
-10	M	B-NP	TIME
-:	F	O	TIME
-15	M	B-NP	TIME
-sáng	N	B-NP	TIME
-thứ	N	B-NP	TIME
-3	M	B-NP	TIME
+10	M	B-NP	B-TIME
+:	F	O	B-TIME
+15	M	B-NP	B-TIME
+sáng	N	B-NP	B-TIME
+thứ	N	B-NP	B-TIME
+3	M	B-NP	B-TIME
 (	F	O	O
-18/6/2019	M	B-NP	TIME
+18/6/2019	M	B-NP	B-TIME
 )	F	O	O
 ,	F	O	O
 tại	E	B-PP	O
-phòng	N	B-NP	LOCATION
-803	M	B-NP	LOCATION
-thư_viện	N	B-NP	LOCATION
-TQB	Np	B-NP	LOCATION
+phòng	N	B-NP	B-LOC
+803	M	B-NP	B-LOC
+thư_viện	N	B-NP	B-LOC
+TQB	Np	B-NP	B-LOC
 
 Tạp_chí	N	B-NP	O
 Day_Job	Np	B-NP	O
@@ -6405,7 +6405,7 @@ cùng	C	B-AP	O
 câu	N	B-NP	O
 lạc_bộ	V	B-NP	O
 tại	E	B-PP	O
-Ba_Vì	Np	B-NP	LOCATION
+Ba_Vì	Np	B-NP	B-LOC
 
 Tập_đoàn	N	B-NP	O
 Habib	Np	B-NP	O
@@ -6415,7 +6415,7 @@ tập_đoàn	N	B-NP	O
 công_nghiệp	N	B-NP	O
 nổi_tiếng	A	B-NP	O
 của	E	B-PP	O
-Bangladesh	Np	B-NP	LOCATION
+Bangladesh	Np	B-NP	B-LOC
 .	F	O	O
 
 Thuật_ngữ	N	B-NP	O
@@ -6453,13 +6453,13 @@ năm	N	B-NP	O
 ông	N	B-NP	O
 đến	V	B-PP	O
 thăm	V	B-VP	O
-châu	N	B-NP	LOCATION
-Âu	Np	B-NP	LOCATION
+châu	N	B-NP	B-LOC
+Âu	Np	B-NP	B-LOC
 từ	E	B-PP	O
-năm	N	B-NP	TIME
-1863	M	B-NP	TIME
-đến	V	B-PP	TIME
-1902	M	B-NP	TIME
+năm	N	B-NP	B-TIME
+1863	M	B-NP	B-TIME
+đến	V	B-PP	B-TIME
+1902	M	B-NP	B-TIME
 .	F	O	O
 
 Thuyết	N	B-NP	O
@@ -6475,18 +6475,18 @@ xã_hội_học	N	B-NP	O
 ,	F	O	O
 thịnh_hành	A	B-NP	O
 trong	E	B-PP	O
-thế_kỷ	N	B-NP	TIME
-19	M	B-NP	TIME
+thế_kỷ	N	B-NP	B-TIME
+19	M	B-NP	B-TIME
 và	C	O	O
-đầu	N	B-NP	TIME
-thế_kỷ	N	B-NP	TIME
-20	M	B-NP	TIME
+đầu	N	B-NP	B-TIME
+thế_kỷ	N	B-NP	B-TIME
+20	M	B-NP	B-TIME
 .	F	O	O
 
 Vào	E	B-VP	O
-sáng	N	B-NP	TIME
-thứ	N	B-NP	TIME
-ba	M	B-NP	TIME
+sáng	N	B-NP	B-TIME
+thứ	N	B-NP	B-TIME
+ba	M	B-NP	B-TIME
 ,	F	O	O
 chúng_tôi	P	B-NP	O
 cảm_thấy	V	B-NP	O
@@ -6498,21 +6498,21 @@ trận	N	B-NP	O
 đất	N	B-NP	O
 Lone	Np	B-NP	O
 Pine	Np	B-NP	O
-năm	N	B-NP	TIME
-1872	M	B-NP	TIME
+năm	N	B-NP	B-TIME
+1872	M	B-NP	B-TIME
 .	F	O	O
 
 đi	V	B-VP	O
 gặp	V	B-VP	O
 khách_hàng	N	B-NP	O
 lúc	N	B-NP	O
-9	M	B-NP	TIME
-:	CH	O	TIME
-30	M	B-NP	TIME
-sáng_mai	N	B-NP	TIME
+9	M	B-NP	B-TIME
+:	CH	O	B-TIME
+30	M	B-NP	B-TIME
+sáng_mai	N	B-NP	B-TIME
 tại	E	B-PP	O
-73	N	B-NP	LOCATION
-Lò_Đúc	Np	B-NP	LOCATION
+73	N	B-NP	B-LOC
+Lò_Đúc	Np	B-NP	B-LOC
 
 Có	V	B-VP	O
 phải	V	B-VP	O
@@ -6533,8 +6533,8 @@ tham_dự	V	B-NP	O
 tiệc	N	B-NP	O
 công_ty	V	B-NP	O
 vào	E	B-PP	O
-tuần	N	B-NP	TIME
-sau	N	B-NP	TIME
+tuần	N	B-NP	B-TIME
+sau	N	B-NP	B-TIME
 
 Chúng_tôi	P	B-NP	O
 ở	E	B-PP	O
@@ -6552,37 +6552,37 @@ cô	N	B-NP	O
 em	N	B-NP	O
 bận	V	B-NP	O
 học	V	B-VP	O
-buổi	N	B-NP	TIME
-sáng	N	B-NP	TIME
-ngày_mai	N	B-NP	TIME
+buổi	N	B-NP	B-TIME
+sáng	N	B-NP	B-TIME
+ngày_mai	N	B-NP	B-TIME
 nên	C	O	O
 đẩy	V	B-VP	O
 lịch	N	B-NP	O
 báo_cáo	V	B-NP	O
 lên	V	B-VP	O
-10h	M	B-NP	TIME
+10h	M	B-NP	B-TIME
 có	V	B-VP	O
 được	R	O	O
 không	R	O	O
 ạ	V	O	O
 
-Chiều	N	B-NP	TIME
-mai	N	B-NP	TIME
-2pm	M	B-NP	TIME
+Chiều	N	B-NP	B-TIME
+mai	N	B-NP	B-TIME
+2pm	M	B-NP	B-TIME
 đến	E	B-PP	O
-B1	Ny	B-NP	LOCATION
-702	M	B-NP	LOCATION
+B1	Ny	B-NP	B-LOC
+702	M	B-NP	B-LOC
 nhé	T	O	O
 ,	F	O	O
-thứ	N	B-NP	TIME
-4	M	B-NP	TIME
+thứ	N	B-NP	B-TIME
+4	M	B-NP	B-TIME
 tới	E	B-PP	O
 khỏi	V	B-VP	O
 phải	V	B-VP	O
 đến	V	B-PP	O
 
-Sáng	N	B-NP	TIME
-nay	P	B-NP	TIME
+Sáng	N	B-NP	B-TIME
+nay	P	B-NP	B-TIME
 mình	P	B-NP	O
 lại	R	O	O
 có	V	B-VP	O
@@ -6591,7 +6591,7 @@ bận	V	B-NP	O
 ,	F	O	O
 chuyển	V	B-VP	O
 sang	V	B-VP	O
-chiều	N	B-NP	TIME
-mai	N	B-NP	TIME
-2h	M	B-NP	TIME
+chiều	N	B-NP	B-TIME
+mai	N	B-NP	B-TIME
+2h	M	B-NP	B-TIME
 nhé	N	O	O
